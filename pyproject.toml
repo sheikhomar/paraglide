@@ -1,0 +1,20 @@
+[project]
+name = "paraglide"
+version = "0.1.0"
+description = "App to make Danish statutes accessible and navigable."
+authors = [
+    {name = "Omar Ali Sheikh", email = "sheikhomar@gmail.com"},
+]
+requires-python = ">=3.11,<3.12"
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = []
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm.dev-dependencies]
+test = [
+    "pytest>=7.4.3",
+]
