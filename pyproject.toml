@@ -20,6 +20,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pre-commit>=3.5.0",
+    "pyre-check>=0.9.19",
 ]
 
 [build-system]
