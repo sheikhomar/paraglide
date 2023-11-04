@@ -5,5 +5,9 @@
     "tests",
     "tools"
   ],
-  "strict": true
+  "strict": true,
+  "search_path": [
+    { "site-package": "pandas" },
+    { "site-package": "nltk" }
+  ]
 }

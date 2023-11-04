@@ -51,3 +51,12 @@ An app for searching through Danish statutes.
     --output-path data/eli-lta-2023-1180.json \
     --force
   ```
+
+- Build Llama index using Cohere Embed API:
+
+  ```bash
+  pdm run build-index-cohere \
+    --statute-path data/eli-lta-2023-1180.json \
+    --index-dir data/llama-indices/cohere-embed-v3 \
+    --cohere-api-key $COHERE_API_KEY
+  ```
