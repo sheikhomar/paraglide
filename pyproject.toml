@@ -8,7 +8,11 @@ authors = [
 requires-python = ">=3.11,<3.12"
 readme = "README.md"
 license = {text = "MIT"}
-dependencies = []
+dependencies = [
+    "playwright>=1.39.0",
+    "anyio<4.0.0",
+    "click>=8.1.7",
+]
 
 [project.optional-dependencies]
 dev = [
@@ -23,3 +27,7 @@ build-backend = "pdm.backend"
 test = [
     "pytest>=7.4.3",
 ]
+
+[tool.pdm.scripts]
+tests = "pytest -v -s tests"
+scrape-statute = "python -m tools.scrape_statute"

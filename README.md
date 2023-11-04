@@ -19,8 +19,26 @@ An app for searching through Danish statutes.
     pdm install
     ```
 
+    Install Playwright's dependencies (Chrome, Firefox, Webkit, and FFmpeg):
+
+    ```bash
+    pdm run playwright install
+    pdm run playwright install-deps
+    ```
+
 4. Install the pre-commit hooks:
 
     ```bash
     pdm run pre-commit install
     ```
+
+## Getting Started
+
+- Scrape a specific statute from [retsinformation.dk](https://www.retsinformation.dk/):
+
+  ```bash
+  pdm run scrape-statute \
+    --url https://www.retsinformation.dk/eli/lta/2023/1180 \
+    --output-path data/eli-lta-2023-1180.html \
+    --force
+  ```
