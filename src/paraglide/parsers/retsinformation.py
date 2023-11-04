@@ -120,7 +120,7 @@ class RetsinformationStatuteParser:
             'Could not extract title. No <p> element with class "Titel2" found'
         )
 
-    def _parse_chapters(self, soup: BeautifulSoup) -> List[StatuteChapter]:
+    def _parse_chapters(self, soup: BeautifulSoup) -> List[StatuteChapter]:  # type: ignore
         chapters: List[StatuteChapter] = []
         current_chapter: Optional[StatuteChapter] = None
         current_paragraph: Optional[StatuteParagraph] = None
