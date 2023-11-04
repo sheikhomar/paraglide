@@ -1,7 +1,7 @@
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
-from typing import Iterator, List, Optional
+from typing import List, Optional
 
 from pydantic import BaseModel, Field, RootModel, model_validator
 
@@ -100,12 +100,6 @@ class ParagraphRefList(RootModel[List[ParagraphRef]]):
     root: List[ParagraphRef] = Field(
         default_factory=list, description="The list of paragraph references"
     )
-
-    def __iter__(self) -> Iterator[ParagraphRef]:
-        return self.root.__iter__()
-
-    def __getitem__(self, idx: int) -> ParagraphRef:
-        return self.root[idx]
 
     @classmethod
     def from_json_path(cls, file_path: str) -> "ParagraphRefList":

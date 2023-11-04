@@ -1,10 +1,10 @@
 from pathlib import Path
 from typing import Optional
+from urllib.parse import urlparse
 
 import click
-from playwright.async_api import async_playwright
 from anyio import run as anyio_run
-from urllib.parse import urlparse
+from playwright.async_api import async_playwright
 
 
 async def get_page_content(url: str, css_to_wait_for: Optional[str] = None) -> str:
@@ -66,18 +66,18 @@ async def runner(url: str, output_path: Path) -> None:
 @click.option(
     "-f", "--force", is_flag=True, help="Overwrite output file if it already exists"
 )
-def main(url: str, output_path: str, force: bool):
+def main(url: str, output_path: str, force: bool) -> None:
     if output_path is None or len(output_path.strip()) == 0:
-        output_path = generate_file_path(url=url)
+        output_path_ = generate_file_path(url=url)
     else:
-        output_path = Path(output_path)
+        output_path_ = Path(output_path)
 
-    if force is False and output_path.exists():
+    if force is False and output_path_.exists():
         raise click.BadParameter(
             f"File {output_path} already exists. Use --force to overwrite it."
         )
 
-    anyio_run(runner, url, output_path)
+    anyio_run(runner, url, output_path_)
 
 
 if __name__ == "__main__":

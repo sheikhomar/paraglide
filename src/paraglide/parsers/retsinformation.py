@@ -3,7 +3,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import List, Optional, Tuple
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, NavigableString, Tag
 from paraglide.data.models import (
     Statute,
     StatuteChapter,
@@ -18,7 +18,7 @@ class ParserError(Exception):
     pass
 
 
-def get_cleaned_text(element: Tag) -> str:
+def get_cleaned_text(element: NavigableString | Tag) -> str:
     """Extracts the text from the given element and cleans it up.
 
     Args:
@@ -28,12 +28,37 @@ def get_cleaned_text(element: Tag) -> str:
         str: The extracted text where all child tags are removed
         and any extra spaces or newlines are stripped.
     """
+    if isinstance(element, NavigableString):
+        raise ParserError(f"Element {element} is not a Tag.")
+
     # Remove all child tags within the element
     for child in element.find_all(True):
         child.extract()
 
     # Extracting the text and stripping any extra spaces or newlines
     return " ".join(element.get_text(strip=True).split())
+
+
+def get_attr(tag: NavigableString | Tag, attr: str) -> str:
+    """Get the value of the given attribute of the given tag.
+
+    Args:
+        tag (Tag): The tag to get the attribute value from.
+        attr (str): The attribute to get the value of.
+
+    Returns:
+        str: The value of the attribute.
+
+    Raises:
+        ParserError: If the tag does not have the given attribute.
+    """
+    if isinstance(tag, NavigableString):
+        raise ParserError(f"Tag {tag} does not have attribute {attr}")
+
+    if attr in tag.attrs:
+        return tag.attrs[attr]
+
+    raise ParserError(f"Tag {tag} does not have attribute {attr}")
 
 
 class RetsinformationStatuteParser:
@@ -67,7 +92,13 @@ class RetsinformationStatuteParser:
         )
 
     def _extract_id_and_date(self, soup: BeautifulSoup) -> Tuple[int, datetime]:
-        id_date_str = soup.find("h5", {"class": "d-sm-inline m-0 mr-sm-2"}).text
+        h5_elem = soup.find("h5", {"class": "d-sm-inline m-0 mr-sm-2"})
+        if h5_elem is None:
+            raise ParserError(
+                'Could not find <h5> element with class "d-sm-inline m-0 mr-sm-2"'
+            )
+
+        id_date_str = h5_elem.text
         match = re.search(
             r"LBK\snr\s(\d{1,10})\saf\s(\d{2})\/(\d{2})\/(\d{4})", id_date_str
         )
@@ -137,21 +168,38 @@ class RetsinformationStatuteParser:
 
     def _parse_chapter(self, p_elem: Tag) -> StatuteChapter:
         guid = p_elem.get("id")
-        number = int(
-            p_elem.find("span", id=lambda x: x and x.startswith("Kap"))
-            .get("id")
-            .replace("Kap", "")
-        )
-        title = get_cleaned_text(
-            p_elem.find_next("p", class_="KapitelOverskrift2").span
-        )
+        span_chapter_elem = p_elem.find("span", id=lambda x: x and x.startswith("Kap"))
+        if span_chapter_elem is None:
+            raise ParserError(
+                "Could not find <span> element with id starting with 'Kap'"
+            )
+        number = int(get_attr(span_chapter_elem, "id").replace("Kap", ""))
+
+        next_p_elem = p_elem.find_next("p", class_="KapitelOverskrift2")
+        if next_p_elem is None:
+            raise ParserError(
+                "Could not find <p> element with class 'KapitelOverskrift2'"
+            )
+
+        title = None
+
+        if isinstance(next_p_elem, Tag):
+            title_elem = next_p_elem.find("span")
+            if title_elem is not None and isinstance(title_elem, Tag):
+                title = get_cleaned_text(title_elem)
+
+        if title is None:
+            raise ParserError("Could not find title for chapter")
 
         return StatuteChapter(number=number, title=title, guid=guid, paragraphs=[])
 
     def _parse_paragraph(self, p_elem: Tag) -> StatuteParagraph:
         guid = p_elem.get("id")
         span_elem = p_elem.find("span", {"class": "ParagrafNr"})
-        id = span_elem.get("id") if span_elem else None
+        if span_elem is None:
+            raise ParserError("Could not find <span> element with class 'ParagrafNr'")
+
+        id = get_attr(span_elem, "id")
         text = get_cleaned_text(p_elem)
         reference = span_elem.get_text().replace(".", "")
         return StatuteParagraph(
@@ -164,7 +212,9 @@ class RetsinformationStatuteParser:
 
     def _parse_list_block(self, p_elem: Tag) -> StructuredText:
         span_elem = p_elem.find("span", {"class": "Liste1Nr"})
-        guid = span_elem.get("id")
+        if span_elem is None:
+            raise ParserError("Could not find <span> element with class 'Liste1Nr'")
+        guid = get_attr(span_elem, "id")
         reference = span_elem.get_text()
         text = get_cleaned_text(p_elem)
         return StructuredText(
@@ -173,7 +223,9 @@ class RetsinformationStatuteParser:
 
     def _parse_section(self, p_elem: Tag) -> StatuteSection:
         span_elem = p_elem.find("span", {"class": "StkNr"})
-        guid = span_elem.get("id")
+        if span_elem is None:
+            raise ParserError("Could not find <span> element with class 'StkNr'")
+        guid = get_attr(tag=span_elem, attr="id")
         reference = span_elem.get_text().strip()[:-1]
         text = get_cleaned_text(p_elem)
         return StatuteSection(

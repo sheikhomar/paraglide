@@ -158,7 +158,7 @@ def test_all_paragraph_references_are_extracted_correctly(
 ) -> None:
     known_paragraph_refs = ParagraphRefList.from_json_path(
         file_path="data/eli-lta-2023-1180-paragraph-refs.json"
-    )
+    ).root
     for expected_ref in known_paragraph_refs:
         parsed_paragraph = parsed_1180_paragraphs.get(expected_ref.id)
         assert (
@@ -238,6 +238,9 @@ def test_paragraph_1_has_three_text_blocks(
 ) -> None:
     paragraph = parsed_1180_paragraphs.get("Par1")
     assert (
+        paragraph is not None
+    ), "Expected paragraph 'Par1' to have been parsed, but was not the case. Got None."
+    assert (
         len(paragraph.texts) == 3
     ), f"Expected paragraph 'Par1' to have 3 text blocks, but it has {len(paragraph.texts)}."
 
@@ -258,6 +261,9 @@ def test_paragraph_list_block_is_parsed_correctly(
     parsed_1180_paragraphs: Dict[str, StatuteParagraph],
 ) -> None:
     paragraph = parsed_1180_paragraphs.get(paragraph_id)
+    assert (
+        paragraph is not None
+    ), f"Expected paragraph '{paragraph_id}' to have been parsed, but was not the case. Got None."
     list_block = paragraph.texts[text_index]
     assert (
         list_block.type == TextType.list
@@ -274,6 +280,9 @@ def test_paragraph_4_has_no_list_blocks(
     parsed_1180_paragraphs: Dict[str, StatuteParagraph],
 ) -> None:
     paragraph = parsed_1180_paragraphs.get("Par4")
+    assert (
+        paragraph is not None
+    ), "Expected paragraph 'Par4' to have been parsed, but was not the case. Got None."
     assert (
         len(paragraph.texts) == 1
     ), f"Expected paragraph 'Par4' to have 1 text block, but it has {len(paragraph.texts)}."
@@ -298,6 +307,9 @@ def test_paragraph_has_correct_section(
     parsed_1180_paragraphs: Dict[str, StatuteParagraph],
 ) -> None:
     paragraph = parsed_1180_paragraphs.get(paragraph_id)
+    assert (
+        paragraph is not None
+    ), f"Expected paragraph '{paragraph_id}' to have been parsed, but was not the case. Got None."
     section = paragraph.sections[section_index]
     assert (
         section.guid == expected_guid
