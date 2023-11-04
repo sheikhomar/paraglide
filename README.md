@@ -42,3 +42,12 @@ An app for searching through Danish statutes.
     --output-path data/eli-lta-2023-1180.html \
     --force
   ```
+
+- Parse downloaded statute:
+
+  ```bash
+  pdm run parse-statute \
+    --input-path data/eli-lta-2023-1180.html \
+    --output-path data/eli-lta-2023-1180.json \
+    --force
+  ```

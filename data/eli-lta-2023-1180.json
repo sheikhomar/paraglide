@@ -1,0 +1,3854 @@
+{
+  "number": 1180,
+  "date": "2023-09-21T00:00:00",
+  "title": "Bekendtgørelse af lov om ret til orlov og dagpenge ved barsel (barselsloven)",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Formål",
+      "guid": "id99994932-66a2-41d8-9cfd-2afba1db881f",
+      "paragraphs": [
+        {
+          "guid": "id58ce6fa8-5ce0-4072-824f-854ac8c1a1b5",
+          "id": "Par1",
+          "reference": "§ 1",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Formålet med denne lov er",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "at sikre forældre ret til fravær i forbindelse med graviditet, fødsel, adoption, herunder midlertidig placering, og sorgorlov m.v. og",
+              "guid": "id72049405-e25c-48e4-b368-fcfdef747c9d",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "at sikre forældre med tilknytning til arbejdsmarkedet ret til barselsdagpenge under fravær i forbindelse med graviditet, fødsel, adoption, herunder midlertidig placering, og sorgorlov og at sikre ret til dagpenge ved pasning af alvorligt syge børn m.v.",
+              "guid": "id7b58a518-2f13-48ca-8732-fa497e0634bb",
+              "reference": "2)"
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Afgrænsning af personkredsen, der har ret til fravær og barselsdagpenge efter denne lov",
+      "guid": "id3cbe62ea-e69f-4a95-a5aa-cca6e2c35710",
+      "paragraphs": [
+        {
+          "guid": "idf24ba5f1-e79f-4868-8351-f9f1f45f89f0",
+          "id": "Par2",
+          "reference": "§ 2",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ret til fravær efter denne lov omfatter alle forældre.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id7d6289e6-7363-49f5-aaf0-2289eaf6d9f9",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Dagpenge efter denne lov ydes i form af barselsdagpenge til lønmodtagere og selvstændige erhvervsdrivende.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id992cec86-3b5d-4d58-bc2c-179e3925c88f",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det er en betingelse for retten til barselsdagpenge for de personer, som er nævnt i stk. 2, at personen opfylder beskæftigelseskravet efter § 27 for lønmodtagere eller § 28 for selvstændige erhvervsdrivende.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id3a4a88d1-77c6-4d8a-bd28-10a9ecf2e6b9",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge, som lønmodtagere har ret til efter stk. 2 og 3, kan udbetales til arbejdsgivere, der har udbetalt løn under fraværet, jf. § 39, stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id6386e133-bbe3-49d6-9702-b5720ae2614a",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter særlige regler om barselsdagpenge til søfarende.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Ophold og beskatning her i landet",
+      "guid": "idf004e9a0-6301-4bf9-8d27-374dd6754f85",
+      "paragraphs": [
+        {
+          "guid": "id01b7e86a-a09a-4798-a6ba-8b192aca0fb6",
+          "id": "Par3",
+          "reference": "§ 3",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Retten til barselsdagpenge er betinget af, at personen ved fraværsperiodens begyndelse har lovligt ophold her i landet eller efter EF-forordninger om koordinering af de sociale sikringsordninger, er omfattet af dansk lovgivning om social sikring.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id6bc47cba-3fca-4c26-9f1d-a4cc6a2b0cc8",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge kan dog udbetales under ophold i udlandet til en person, der er udsendt af en arbejdsgiver med hjemsted her i landet til beskæftigelse i højst 1 år i udlandet, når den udsendtes indkomst kan beskattes i Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idd84f7f15-11b7-4a86-9db4-0e1c92fc1df7",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge kan endvidere udbetales til en person, der ved fraværsperiodens begyndelse opholder sig i udlandet i en periode, som der efter § 27, stk. 3, eller § 28, stk. 2, ses bort fra ved vurderingen af, om beskæftigelseskravet er opfyldt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id31fa14e2-7e10-40de-b765-6d10c6f2c5db",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Personer, der efter en international aftale om social sikring er omfattet af dansk lovgivning om social sikring, har ret til barselsdagpenge, selv om de ikke har ophold her i landet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc97c7100-cf12-4cf6-99e4-0c7e4b7a9c99",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En person, der ved starten af en fraværsperiode er berettiget til barselsdagpenge i overensstemmelse med stk. 1-4, bevarer retten til barselsdagpenge for den resterende del af denne periode, uanset hvor personen opholder sig.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idde5ce01e-d39b-47f8-8b60-d2ae72022fa1",
+          "id": "Par4",
+          "reference": "§ 4",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Retten til barselsdagpenge er betinget af, at den indkomst, der indgår i beregningsgrundlaget efter kapitel 8, kan beskattes i Danmark.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id2bcb1d2f-6ee5-452b-8c8e-bf7d71d92416",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge kan dog udbetales til personer, hvis indkomst ikke er omfattet af stk. 1, når",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "indkomsten kan beskattes på Færøerne eller i Grønland og",
+                  "guid": "idb96e5950-37ee-4efa-ba64-9a3249fa5e01",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "de pågældende ikke har eller ikke længere har ret til barselsdagpenge eller anden erstatning for tab af indtægt efter lovgivningen for Færøerne og Grønland og de pågældende i øvrigt enten har ophold her i landet eller har ophold i Grønland eller på Færøerne og indtægten er erhvervet ved beskæftigelse her i landet eller på dansk skib.",
+                  "guid": "idc1bfffb7-365a-4a1d-ba8f-6819c51fd9c4",
+                  "reference": "2)"
+                }
+              ]
+            },
+            {
+              "guid": "id61347761-cccc-4a86-bab3-8222ef5d3202",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Personer, der efter EF-forordninger om koordinering af de sociale sikringsordninger er omfattet af dansk lovgivning om social sikring, har ret til barselsdagpenge, selv om deres indkomst omfattet af stk. 1 ikke kan beskattes i Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id548cc711-1063-4992-9c38-3211501d5857",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Personer, der efter en international aftale om social sikring er omfattet af dansk lovgivning om social sikring, har ret til barselsdagpenge, selv om deres indkomst omfattet af stk. 1 ikke kan beskattes i Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id75ce854c-aef0-4d9a-92b4-d89ee38f46a9",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Får en person, der har ret til barselsdagpenge efter denne lov, udbetalt løn fra en udenlandsk arbejdsgiver i forbindelse med graviditet, fødsel, adoption og sorgorlov og ved pasning af alvorligt syge børn, har arbejdsgiveren ret til refusion af barselsdagpenge, jf. § 39.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idd1c96dd1-8549-4c19-8a79-5c72b8780225",
+          "id": "Par5",
+          "reference": "§ 5",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Personer med ophold her i landet eller indkomst omfattet af § 4, stk. 1, kan ikke opnå barselsdagpenge, hvis de efter et andet lands lovgivning eller efter lovgivningen for Færøerne eller Grønland har ret til dagpenge eller anden erstatning for tab af indtægt eller de efter EF-forordninger om koordinering af de sociale sikringsordninger er omfattet af en anden medlemsstats lovgivning om social sikring.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Ret til fravær i forbindelse med graviditet, fødsel og adoption m.v.",
+      "guid": "id17228e7c-6fad-4fd1-87ca-3254b9246836",
+      "paragraphs": [
+        {
+          "guid": "idc59e1dad-55a1-4993-9c98-e30af8659a53",
+          "id": "Par6",
+          "reference": "§ 6",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En kvinde har ret til fravær fra arbejdet på grund af graviditet, når der skønnes at være 4 uger til fødslen.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id984a8ef2-1327-4fcc-891d-f4702d772bae",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En gravid kvinde er berettiget til fravær inden 4-ugers-perioden før fødslen, hvis",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "det efter en lægelig bedømmelse skønnes, at graviditeten har et sygeligt forløb, der ved fortsat beskæftigelse vil medføre risiko for kvindens helbred eller fosteret, eller",
+                  "guid": "id1381a3de-2fac-47a6-ab82-bbbb6031fd12",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "arbejdets særlige karakter medfører risiko for fosteret eller graviditeten på grund af offentligt fastsatte bestemmelser forhindrer hende i at varetage sit arbejde og arbejdsgiveren ikke kan tilbyde hende anden passende beskæftigelse.",
+                  "guid": "id5e9312a2-e114-41f0-8a79-cb28818ef2a0",
+                  "reference": "2)"
+                }
+              ]
+            },
+            {
+              "guid": "id22c13f73-5bd1-46f3-8859-ac736e69b854",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En kvinde har ret til fravær fra arbejdet i forbindelse med forebyggende graviditetsundersøgelser, når disse skal finde sted i arbejdstiden.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6bd230d2-0825-4b3c-85f7-8059e122dfd2",
+          "id": "Par7",
+          "reference": "§ 7",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En mor har ret og pligt til fravær i de første 2 uger efter en fødsel. Herefter har hun ret til fravær i yderligere 8 uger.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idd4e6322f-6a09-472d-94e3-9832b678c20b",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Faren eller medmoren indtræder i morens ret til fravær efter stk. 1, hvis moren dør eller på grund af sygdom bliver ude af stand til at passe barnet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id18eee2a0-27c2-4e59-b754-52c8a59ba732",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En far eller medmor har ret til fravær i 2 sammenhængende uger efter fødslen eller efter modtagelse af barnet i hjemmet eller efter aftale med arbejdsgiveren inden for de første 10 uger efter fødslen. Lønmodtagere og selvstændigt erhvervsdrivende kan afholde de 2 ugers fravær som ikkesammenhængende perioder inden for de første 10 uger efter fødslen. For lønmodtagere forudsætter ikkesammenhængende fravær en aftale med arbejdsgiveren.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "ide0ac66e0-2563-4ae9-83f1-b07c47039034",
+          "id": "Par7a",
+          "reference": "§ 7 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En beskæftiget mor, som genoptager arbejdet på fuld tid, kan overdrage op til 8 uger af sin ret til fravær efter § 7, stk. 1, 2. pkt., til faren eller medmoren til afholdelse inden for de første 10 uger efter barnets fødsel.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id6fe16538-108c-4e6b-ae14-fb0886f96610",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En beskæftiget mor, der påbegynder orlov på fuld tid efter § 9, kan overdrage op til 8 uger af sin ret til fravær efter § 7, stk. 1, 2. pkt., til faren eller medmoren til afholdelse inden for det første år efter barnets fødsel.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6d2502a8-4994-4568-b19a-e0d3a7aeaecd",
+          "id": "Par8",
+          "reference": "§ 8",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Kommende adoptanter, der opholder sig i udlandet for at modtage et barn, har hver ret til fravær fra arbejdet i op til 4 uger før modtagelse af barnet. Retten til fravær forlænges i op til 4 uger, hvis opholdet i udlandet før modtagelsen af barnet bliver længere end 4 uger af årsager, som ikke kan tilregnes de kommende adoptanter.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id75b82a21-3740-4bc4-b7d4-8adc884c7789",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barnet anses for modtaget, når de formelle betingelser for at rejse hjem med barnet er opfyldt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id0a662a16-6ce8-4f69-a1a2-7c5060640cf1",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det er en betingelse for ret til fravær efter stk. 1, at der er tale om en adoption, der er formidlet af en organisation, der er godkendt efter adoptionsloven, eller en privat fremmedadoption gennemført efter tilladelse fra Ankestyrelsen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id44d2c552-5b3c-4713-8310-7dac9ec3dfc3",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Til kommende adoptanter, der skal modtage et adoptivbarn i Danmark, er der ret til fravær i op til 1 uge før modtagelse af barnet, hvis barnet ikke allerede har ophold i adoptanternes hjem. Det er en forudsætning, at adoptanterne af hensyn til barnet opholder sig på det sted, hvor barnet befinder sig, inden modtagelsen. Retten til fravær forlænges i op til 1 uge, hvis opholdet bliver længere end 1 uge af årsager, som ikke kan tilregnes de kommende adoptanter.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id5dedc0c0-300d-4f58-a23c-373a3398b63c",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Når de adoptionsundersøgende myndigheder har bestemt, at adoptanten eller den ene af de adopterende ægtefæller i en periode skal være i hjemmet, har forældrene ret til fravær efter stk. 6 og 7.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf28bf129-99ac-429c-88e5-483833c397c1",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "I de første 10 uger efter modtagelsen af barnet har hver af adoptanterne ret til fravær i 6 uger, som bortset fra 2 sammenhængende uger ikke kan afholdes samtidig. De 2 uger, hvor begge forældre har ret til fravær, kan lønmodtagere og selvstændigt erhvervsdrivende afholde som ikkesammenhængende perioder. For lønmodtagere forudsætter ikkesammenhængende fravær en aftale med arbejdsgiveren. Retten til fravær efter stk. 7 kan påbegyndes inden for de første 10 uger efter modtagelse af barnet. Hver adoptant har ret til at overdrage op til 4 uger af fraværsretten efter 1. pkt. til den anden adoptant.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ida2401071-a35b-4f0d-89bd-135bf941afd9",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Efter den 10. uge efter modtagelse af barnet har adoptanter ret til fravær fra arbejdet under fravær efter §§ 9 og 10.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "ide628626f-2b77-4586-8508-2202ac62b7c4",
+          "id": "Par9",
+          "reference": "§ 9",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Efter den 10. uge efter fødslen eller modtagelsen af barnet har hver af forældrene ret til fravær i 32 uger. Faren eller medmoren har dog ret til at påbegynde fraværet inden for de første 10 uger efter fødslen. Er et barn adopteret af en eneadoptant, jf. § 8, har denne forælder ligeledes ret til at påbegynde fraværet inden for de første 10 uger efter modtagelsen af barnet.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id35070180-335c-4207-a506-dbd070ad0e42",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Hvis moren har overdraget hele eller dele af sin ret til fravær til faren eller medmoren efter § 7 a, stk. 2, har moren ret til at holde orlov efter stk. 1 i forlængelse af sin orlov efter § 7, stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id8dbfbb58-e701-4dbd-9092-67415f6baf61",
+          "id": "Par10",
+          "reference": "§ 10",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Hver af forældrene har ret til at forlænge fraværet efter § 9 fra 32 uger til 40 uger. Beskæftigede lønmodtagere og selvstændige erhvervsdrivende har ret til at forlænge fraværet efter § 9 fra 32 uger til 46 uger.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id43c4a948-6fe7-4e18-aa7a-dcbc2d577c03",
+          "id": "Par11",
+          "reference": "§ 11",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Beskæftigede lønmodtagere har ret til at genoptage arbejdet og udskyde op til 5 uger af fraværsretten efter § 9. Det udskudte fravær skal, når det udnyttes, holdes i en sammenhængende periode. Den udskudte fraværsret skal være udnyttet, inden barnet fylder 9 år.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "ide0e9cfd5-9100-427a-8983-ad9b756385ee",
+          "id": "Par12",
+          "reference": "§ 12",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Efter aftale med arbejdsgiveren kan en beskæftiget lønmodtager genoptage arbejdet helt eller delvis under fravær efter §§ 6-11, jf. dog stk. 5.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idd5b5e542-ef05-43b6-805e-1aaf98701d0c",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "I forbindelse med aftale om delvis genoptagelse af arbejdet under fravær efter § 7, § 7 a, stk. 2, § 8, stk. 6, og § 9 kan det aftales, at fraværsretten forlænges med den tid, hvori arbejdet har været genoptaget.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id04abfc6b-bd10-46c9-b893-aeb77bf63273",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "I forbindelse med aftale om genoptagelse af arbejdet på fuld tid under fravær efter § 7 a, stk. 2, eller § 9 kan det aftales, at fraværsretten udskydes med den tid, hvori arbejdet har været genoptaget.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idbfa6a3cc-303b-4ccc-a520-ca847dd73f79",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udskudt fraværsret skal være udnyttet, inden barnet fylder 9 år. Hvis en lønmodtager fratræder, inden den udskudte fraværsret er udnyttet, er retten til fravær betinget af, at lønmodtageren indgår aftale med den nye arbejdsgiver om den udskudte fraværsret.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id6d81b0cb-c6f7-4831-b758-e05ff24a68c2",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten til at genoptage arbejdet efter stk. 1 omfatter ikke morens fravær i de 2 første uger efter fødslen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6d566a50-3fcf-4756-ad3e-93e8628ee33b",
+          "id": "Par13",
+          "reference": "§ 13",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Hver af forældrene har ret til fravær i 26 uger efter barnets død, hvis barnet er dødfødt eller dør inden det fyldte 18. år. Samme ret til fravær gælder for adoptanter og kommende adoptanter, der har modtaget et barn, hvis barnet dør inden det fyldte 18. år.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id6d247c90-2836-472a-a9b7-b90618a83f3c",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Hver af forældrene har ret til fravær i 14 uger, hvis barnet bortadopteres inden den 32. uge efter fødslen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id0a07fb87-02ab-457a-ac3e-f4cb314bb261",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "I tilfælde omfattet af stk. 1, 1. pkt., eller stk. 2, hvor moren lider af en graviditetsbetinget sygdom, forlænges hendes fraværsret, dog højst indtil 46 uger efter fødslen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc7e7f580-ec58-4226-884d-5cbbf2b7f953",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "For en forælder, der udnytter retten til fravær efter stk. 1, udsættes retten til fravær efter § 9 for et andet barn. Udsat fravær skal være udnyttet, inden barnet fylder 9 år.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id838765bd-47bb-4e6b-8c7b-57733d654ab6",
+          "id": "Par14",
+          "reference": "§ 14",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Hvis barnet er indlagt på sygehus, forlænges eller udsættes den periode, hvor der er ret til fravær.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ida20036f6-f377-4fd1-bf86-fa58211ca8c5",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Såfremt arbejdet ikke genoptages ved indlæggelsen, forlænges den periode, hvor der er ret til fravær, med indlæggelsesperioden, hvis indlæggelsen finder sted under de første 46 uger efter fødslen eller modtagelsen. Fraværsretten kan dog højst forlænges i 3 måneder. Retten til at forlænge fraværsperioden gælder ikke forældrenes ret til fravær efter § 7, stk. 3, eller adoptanters ret til samtidigt fravær efter § 8, stk. 6.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide5f8fd0a-2c7a-44c0-b880-a7dedb7febc9",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Hvis arbejdet fortsættes eller genoptages ved indlæggelsen, udsættes retten til fravær for den resterende periode til efter udskrivelsen. Det er en betingelse, at udskrivelsen finder sted inden 60 uger fra fødslen eller modtagelsen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id92b7aa79-904d-4f53-ae61-6945cde06036",
+          "id": "Par14a",
+          "reference": "§ 14 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Forældre, der får tre eller flere børn ved samme fødsel, har ret til ekstra fravær i 26 uger tilsammen.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id43005ac3-d953-47e4-9f27-4e3960f3cc25",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Fraværet efter stk. 1 skal holdes inden 18 måneder efter fødslen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idb1a1fe69-ce73-44c5-afec-6a43b4fdc14f",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om administrationen efter bestemmelsen, herunder regler om krav til dokumentationen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id444b9af0-1073-453f-a3f5-2d3718f33902",
+          "id": "Par15",
+          "reference": "§ 15",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En kvindelig lønmodtager skal med 3 måneders varsel underrette arbejdsgiveren om forventet fødselstidspunkt, og om hun agter at udnytte retten til fravær før fødslen, jf. § 6, stk. 1. En kvindelig lønmodtager, der ønsker at overdrage fraværsret efter § 7 a, skal senest 4 uger før forventet fødselstidspunkt underrette sin arbejdsgiver herom og om, hvorvidt hun ønsker at holde fravær efter § 9 i stedet.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id5f46ced3-5e45-4126-b260-0afe3c8af5bc",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En kvindelig lønmodtager, der udnytter sin ret til fravær i de første 10 uger efter fødslen, jf. § 7, stk. 1, skal inden 6 uger efter fødslen underrette sin arbejdsgiver om, hvornår hun vil genoptage arbejdet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id24058f4c-afb5-46e8-bc20-4e8a4fded9e4",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En kommende far eller medmor, der ønsker at udnytte sin ret til fravær efter fødslen, jf. § 7, stk. 3, overdraget orlov efter § 7 a eller fravær efter § 9 til afholdelse inden for de første 10 uger, skal senest 4 uger før forventet fødselstidspunkt underrette sin arbejdsgiver herom og om længden af fraværet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id6ae3d44d-e631-4d04-bf49-df26138584be",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, der ønsker at udnytte sin ret til fravær, jf. §§ 9, 10 og 14 a, eller overdraget orlov til afholdelse efter 10 uger efter fødslen, jf. § 7 a, stk. 2, skal inden 6 uger efter fødslen eller modtagelsen af barnet underrette sin arbejdsgiver om tidspunktet for fraværets begyndelse og om længden heraf. Såfremt fraværsretten afholdes således, at lønmodtagerens fravær falder i flere perioder, skal underretningen omfatte påbegyndelsen og længden af senere fravær.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id7b1435a2-0b50-4a17-95b5-64f5f3e6d85e",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved fravær efter § 8 skal adoptanter så vidt muligt iagttage frister svarende til de i stk. 1-4 nævnte frister.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idbc517d74-1788-49ea-9f94-9b230d57b4c4",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, der udnytter sin ret til fravær efter § 13, skal uden ugrundet ophold underrette arbejdsgiveren om fraværet, herunder fraværets længde. Ønsker lønmodtageren efter varslets afgivelse at ændre fraværets længde, skal arbejdsgiveren på ny varsles uden ugrundet ophold. Har lønmodtageren afgivet varsel efter stk. 1-5, bortfalder de afgivne varsler, og arbejdsgiveren skal uden ugrundet ophold varsles på ny i situationer omfattet af 1. pkt. En lønmodtager, der ønsker at overgå fra fravær efter § 13 til fravær efter § 9 for et andet barn, skal underrette sin arbejdsgiver herom senest 4 uger inden udløbet af det varslede fravær efter 1. og 2. pkt. Hvis det varslede fravær efter 1. og 2. pkt. er under 4 uger, skal lønmodtageren uden ugrundet ophold underrette sin arbejdsgiver om overgang til fravær efter § 9.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id24168f9e-2186-450c-9735-7babbe084d11",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, der udnytter sin ret til fravær, fordi barnet er indlagt på sygehus inden for de første 46 uger efter fødslen eller modtagelsen i hjemmet, jf. § 14, skal uden ugrundet ophold underrette sin arbejdsgiver om indlæggelsen. Forældrene skal uden ugrundet ophold underrette deres arbejdsgivere om, hvornår barnet er modtaget i hjemmet efter indlæggelsen. Hvis barnet er modtaget, inden der er afgivet varsel efter stk. 2-5, forlænges fristen herfor med den tid, barnet har været indlagt. Hvis barnet modtages efter, at der er afgivet varsel efter stk. 2-5, bortfalder de afgivne varsler, og der skal varsles på ny inden 2 uger efter modtagelsen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idfc13cb95-69a0-464a-bfbc-3682e3e26367",
+              "reference": "Stk. 8",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En forælder, der indtræder i morens ret til fravær efter § 7, stk. 2, skal uden ugrundet ophold underrette sin arbejdsgiver herom og om længden af fraværet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idc557718d-4bb4-4841-a52d-675b8012fef0",
+          "id": "Par15a",
+          "reference": "§ 15 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager i et ansættelsesforhold, der ikke har haft mulighed for inden 6 uger efter barnets fødsel eller modtagelse at varsle afholdelse af fravær efter § 9 over for en arbejdsgiver, jf. § 15, stk. 4, og som har ret til barselsdagpenge efter § 21, stk. 3, eller § 21 a, skal med 8 ugers varsel underrette arbejdsgiveren om, hvornår orloven påbegyndes, og om længden heraf.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "idae9a9eac-3bd0-4132-a01d-3a6ca8cc6a4c",
+          "id": "Par16",
+          "reference": "§ 16",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager, der ønsker at udskyde op til 5 uger af fraværet, jf. § 11, skal underrette arbejdsgiveren herom senest 6 uger efter fødslen eller modtagelsen af barnet.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id3158d5d1-3298-4038-b5b9-c3936a7e40e3",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En beskæftiget lønmodtager, der ønsker at udnytte retten til at holde orlov, der er udskudt efter § 11, skal med 16 ugers varsel underrette arbejdsgiveren om, hvornår fraværet påbegyndes, og om længden heraf. Er den udskudte fraværsret efter § 11 på op til 5 uger, skal lønmodtageren dog senest 8 uger før fraværets påbegyndelse underrette arbejdsgiveren herom og om længden af fraværet. Hvis lønmodtageren ikke varsler sit fravær rettidigt, kan fraværsretten først udnyttes, når det afgivne varsel er udløbet.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id770b00da-c78f-48ea-a906-9b5dff6fefe0",
+          "id": "Par17",
+          "reference": "§ 17",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Lønmodtageren har ret til at ændre anvendelsen af fraværsretten, hvis nyt varsel afgives inden udløbet af fristen for varsel efter § 15, stk. 1-5, og § 16. Lønmodtageren har ret til at ændre anvendelsen af fraværsretten, hvis der indtræffer omstændigheder, som gør det urimeligt at opretholde fraværsretten som varslet. En lønmodtager, der efter 2. pkt. ændrer anvendelsen af fraværsretten efter §§ 9 og 10, anses efter denne lov for at have genoptaget arbejdet med den konsekvens, at lønmodtageren har ret til at afholde den resterende del af fraværsretten på et senere tidspunkt. Afholdelse af resterende fravær, jf. 3. pkt., skal varsles over for arbejdsgiveren, senest 16 uger før fraværet påbegyndes.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Ret til barselsdagpenge og ret til overdragelse af orlov m.v.",
+      "guid": "idac3c39b9-2487-4ceb-9d26-b954c0d3dd1a",
+      "paragraphs": [
+        {
+          "guid": "id09ce6167-1efc-4650-b4eb-3b26f2f9c888",
+          "id": "Par18",
+          "reference": "§ 18",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Arbejdsgiveren udbetaler dagpenge under fravær fra arbejdet på grund af forebyggende graviditetsundersøgelser, jf. § 6, stk. 3. Bestemmelsen finder ikke anvendelse, i det omfang en pligt for arbejdsgiveren til at udbetale dagpenge eller anden passende ydelse følger af kollektiv overenskomst, der som minimum svarer til bestemmelserne i direktiv nr. 92/85/EØF om iværksættelse af foranstaltninger til forbedring af sikkerheden og sundheden under arbejdet for arbejdstagere, som er gravide, som lige har født, eller som ammer.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "idac2af3a3-b480-466d-bb72-b81f12a0c4be",
+          "id": "Par19",
+          "reference": "§ 19",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Til personer, der opfylder betingelserne for ret til barselsdagpenge, herunder beskæftigelseskravet for lønmodtagere i § 27 eller for selvstændige erhvervsdrivende i § 28, udbetaler Udbetaling Danmark barselsdagpenge efter reglerne i dette kapitel under fravær i forbindelse med graviditet, fødsel og adoption.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "idb56f8b60-2d4a-4a5c-a377-ca053dcd1788",
+          "id": "Par20",
+          "reference": "§ 20",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved fravær efter § 6, stk. 1 og 2, og §§ 7, 7 a, 8, 13, 14 og 14 a udbetaler Udbetaling Danmark barselsdagpenge beregnet efter kapitel 9.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id615a29ef-3f1b-4118-abac-bde90a66c73f",
+          "id": "Par21",
+          "reference": "§ 21",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved fravær efter §§ 9 og 10 har en mor ret til barselsdagpenge i 14 uger, og en far eller medmor har ret til barselsdagpenge i 22 uger indtil 1 år efter barnets fødsel eller modtagelse, jf. dog §§ 21 a-21 c. Begge adoptanter har hver ret til barselsdagpenge i 18 uger indtil 1 år efter barnets modtagelse, jf. dog §§ 21 a-21 c.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idf4636018-7b05-4a11-a616-4bbe12054de3",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En forælder kan overdrage sin ret efter stk. 1 til den anden forælder, jf. dog stk. 3. En forælder, der ikke selv opfylder beskæftigelseskravet i §§ 27 eller 28, kan overdrage den ret til barselsdagpenge, forælderen ville have haft, hvis beskæftigelseskravet var opfyldt, til den anden forælder. Retten til barselsdagpenge efter stk. 1 anses for udnyttet, hvis forælderen har overdraget retten til den anden forælder.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc5b004f4-653d-4c4f-ab8f-b9f832aa277f",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En beskæftiget lønmodtager skal holde 9 af ugerne efter stk. 1 inden 1 år efter barnets fødsel eller modtagelse, og retten til barselsdagpenge for denne orlov kan ikke overdrages. Er forælderen forhindret i at holde orloven efter 1. pkt. på grund af særlige forhold, jf. stk. 4, 2. pkt., inden 1 år efter barnets fødsel eller modtagelse, kan ugerne med barselsdagpenge dog afholdes inden 3 år efter barnets fødsel eller modtagelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id72c6bf3c-8f0e-4547-9c3d-88e097bc2fe1",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om, hvornår en forælder er at anse som beskæftiget lønmodtager efter stk. 3, herunder i hvilke situationer en beskæftiget lønmodtager, der er ansat i sit eget aktie- eller anpartsselskab, ikke er omfattet af stk. 3. Beskæftigelsesministeren fastsætter endvidere regler om, hvornår en lønmodtager på grund af særlige forhold er forhindret i at holde orloven efter stk. 3.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id72114865-599a-4b2b-bba7-9c2aded16afd",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om administration af reglerne og krav til dokumentationen, herunder om overdragelse efter stk. 2, regler om overdragelse af ret til barselsdagpenge fra den ene forælder i særlige situationer, hvor forælderen selv er ude af stand til at overdrage orloven, og regler om tildeling af ekstra uger med barselsdagpenge i særlige situationer, herunder i situationer, hvor det kun er den ene forælder, der er socialt sikret i Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "iddb3f030f-7ea3-4861-962c-89e29a4d4c0e",
+          "id": "Par21a",
+          "reference": "§ 21 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En forælder, der kommer i beskæftigelse som lønmodtager inden 1 år efter barnets fødsel eller modtagelse, og som ikke har ret til barselsdagpenge som lønmodtager efter § 21, stk. 1, fordi forælderen tidligere har udnyttet sin ret til orlov med barselsdagpenge, jf. § 21, stk. 1 og 2, har ret til op til 9 ugers barselsdagpenge ved fravær efter § 9. § 21, stk. 3, finder tilsvarende anvendelse for orlov efter 1. pkt. Har forælderen tidligere holdt orlov med barselsdagpenge, jf. § 21, stk. 1, som lønmodtager i beskæftigelse, fragår disse uger i retten efter 1. pkt.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idc79ff8a2-9c0e-4c46-87f4-4df2eb329d7d",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Når en forælder kommer i beskæftigelse som lønmodtager, indgår den uudnyttede ret til orlov efter § 21, stk. 1 og 2, og §§ 21 b og 21 c, i retten til orlov efter stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id8a0cfe18-a075-48ce-bdcd-59a5c305f419",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om administration af reglerne efter denne bestemmelse, herunder regler om krav til dokumentationen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id1c30f915-718a-4b31-99a3-d5ca53a2722f",
+          "id": "Par21b",
+          "reference": "§ 21 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Hvis forældrene ikke bor sammen på tidspunktet for barnets fødsel eller modtagelse, har den forælder, der har barnet boende, ud over ret til barselsdagpenge efter § 21, stk. 1, ret til barselsdagpenge i yderligere 13 uger ved fravær efter §§ 9 og 10 indtil 1 år efter barnets fødsel eller modtagelse. Hvis forælderen har eneforældremyndighed over barnet, har forælderen derudover ret til yderligere 9 ugers barselsdagpenge.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idfb1f7e95-3da8-4ad7-b54a-f1930d360082",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Den forælder, som barnet ikke bor hos, har ikke ret til barselsdagpenge efter § 21, stk. 1. Forælderen har ret til barselsdagpenge i 9 uger ved fravær efter § 9 indtil 1 år efter barnets fødsel eller modtagelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idfd14ce61-2c7e-4b86-afbc-3bbf09d802f2",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "§ 21, stk. 2 og 3, og regler fastsat efter § 21, stk. 4 og 5, finder tilsvarende anvendelse på forældrenes samlede ret til barselsdagpenge efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id1e3cd5b2-fb09-4775-ab41-3a19bb68f00a",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om, hvornår en forælder efter stk. 1, 1. pkt., anses for at have barnet boende, og om administration af reglerne efter denne bestemmelse, herunder regler om krav til dokumentationen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id1f449f21-cfc9-4b71-82ec-130c41b57a1e",
+          "id": "Par21c",
+          "reference": "§ 21 c",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Hvis barnet kun har én forælder på tidspunktet for barnets fødsel eller modtagelse, har forælderen ud over ret til barselsdagpenge efter § 21, stk. 1, ret til barselsdagpenge i yderligere 22 uger ved fravær efter §§ 9 og 10 indtil 1 år efter barnets fødsel eller modtagelse.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ide8e0abc7-9de5-4282-99e1-28928d7b6799",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Hvis en forælder dør efter barnets fødsel, har den efterlevende forælder ret til den afdøde forælders uudnyttede uger med barselsdagpenge efter § 21, stk. 1, § 21 b, stk. 1, 1. pkt., og stk. 2, og § 23, stk. 1 eller 2, medmindre den efterlevende forælder har ret til barselsdagpenge efter § 21 b, stk. 1, 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id3aff0c97-689f-4b7b-9578-f4228c85cb3e",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Hvis en adoptant dør efter modtagelsen af barnet, har den efterlevende adoptant ret til den afdøde adoptants uudnyttede uger med fravær efter § 8, stk. 6, og barselsdagpenge efter § 20, § 21, stk. 1, § 21 b, stk. 1, 1. pkt., og stk. 2, og § 23, stk. 1 eller 2, medmindre den efterlevende adoptant har ret til barselsdagpenge efter § 21 b, stk. 1, 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idfdb9271b-7e13-4a3a-af7d-30d801738b87",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "§ 21, stk. 3, og regler fastsat efter § 21, stk. 4 og 5, finder tilsvarende anvendelse på forælderens samlede ret til barselsdagpenge efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id30b1d7e2-d40b-4168-bc14-3b7791119554",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om, i hvilke situationer et barn anses for kun at have én forælder, jf. stk. 1. Beskæftigelsesministeren fastsætter endvidere regler om administrationen efter bestemmelsen, herunder regler om krav til dokumentationen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id0bbd3f3a-a655-4530-84f8-f81ae5a860d7",
+          "id": "Par22",
+          "reference": "§ 22",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Lønmodtagere og selvstændige erhvervsdrivende kan genoptage arbejdet helt eller delvis i de perioder, hvor der er ret til barselsdagpenge efter §§ 20 og 21. Dette gælder dog ikke for en mor i de 2 første uger efter fødslen.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ide1ba2032-5082-40dc-a27f-8d24300035f2",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Der udbetales ikke barselsdagpenge for uger, hvor arbejdet er genoptaget på fuld tid.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id638215bc-e822-4517-a9fe-6d1310ff45a3",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om udbetaling af barselsdagpenge for uger, hvori arbejdet er genoptaget delvis.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id7b44f9eb-3d4e-489f-a8b0-dee97c100bcc",
+          "id": "Par23",
+          "reference": "§ 23",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved delvis genoptagelse af arbejdet under fravær efter § 7, § 7 a, stk. 2, § 8, stk. 6, og § 9 kan retten til barselsdagpenge forlænges med den tid, hvori arbejdet har været genoptaget, og udbetales under senere fravær.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id7a903210-ebeb-4bce-92c9-c7fd1ba6ba9b",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved genoptagelse eller påbegyndelse af arbejde under fravær efter § 7 a, stk. 2, eller § 9 kan retten til barselsdagpenge udskydes med den tid, hvor arbejdet er genoptaget, og udbetales under senere fravær. Det er en betingelse for at kunne udskyde retten til barselsdagpenge, at forælderen har en barselsdagpengeret i perioden, hvor arbejdet er genoptaget.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ideb006e5c-b406-45d0-9c72-8ab8af9c68dd",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten til barselsdagpenge efter stk. 2 kan overdrages til den anden forælder. Retten til at overdrage barselsdagpenge efter 1. pkt. gælder, uanset om forælderen selv har ret til barselsdagpenge.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idde0a5d25-1876-49dc-a1fa-083e42b7c72e",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling af barselsdagpenge under senere fravær, jf. stk. 3, er betinget af, at forælderen har haft barselsdagpengeret og været i beskæftigelse inden for det første år efter fødslen eller modtagelsen af barnet i et omfang, der svarer til den periode, der ansøges om barselsdagpenge for.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id9be58527-88e8-41b0-81c5-0e922d66ed71",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten til barselsdagpenge under senere fravær er betinget af, at dagpengemodtageren opfylder beskæftigelseskravet i § 27 eller § 28, når den udskudte orlov skal holdes.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id64e60ded-8baa-40fe-b3e7-0bd9ee66df4e",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten til barselsdagpenge under senere fravær er endvidere betinget af, at ansøgeren er i beskæftigelse umiddelbart forud for fraværsperioden.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id44e53904-4be9-4e88-83f0-5093cf1c17a6",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten til barselsdagpenge under senere fravær bortfalder, når barnet fylder 9 år.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id68118eb4-3a15-415b-9591-b340049a53fa",
+          "id": "Par24",
+          "reference": "§ 24",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om ret til dagpenge efter §§ 18-23.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id1af0d387-f9e9-45f5-9446-28f7abcdefcd",
+          "id": "Par25",
+          "reference": "§ 25",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Når der udbetales barselsdagpenge under fravær efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt., til og med den 31. august 2019, optjenes der ret til ferieydelse. Ferieydelsen udbetales i det efterfølgende ferieår. Ferie med ferieydelse optjent i perioden fra den 1. januar 2019 til og med den 31. august 2019 afholdes dog i perioden fra den 1. maj 2020 til og med den 31. august 2020.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id5845ad7c-708d-4bfb-808c-f77fc0ac51c2",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Denne ret gælder ikke, i det omfang der i den i stk. 1 nævnte periode optjenes ret til",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "løn under ferie og ferietillæg efter ferieloven, kollektiv overenskomst m.v.,",
+                  "guid": "idc2825a24-9a54-4778-9ce4-61420119fef8",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriegodtgørelse efter ferieloven m.v., der som minimum svarer til dagpengesatsen efter § 35, stk. 1, eller",
+                  "guid": "id4b593f5d-db9e-4da7-88cc-ed723916855e",
+                  "reference": "2)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriedagpenge med ret til udbetaling i det efterfølgende ferieår efter lov om arbejdsløshedsforsikring m.v.",
+                  "guid": "id25de0de7-9165-4993-9c24-e75415d087b4",
+                  "reference": "3)"
+                }
+              ]
+            },
+            {
+              "guid": "id2315b159-3b0b-4475-b953-5f8172b37a96",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelseskravet, jf. § 27, finder tilsvarende anvendelse ved udbetaling af ferieydelse efter denne bestemmelse ved påbegyndelsen af ferien i det efterfølgende ferieår.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id10ccf3d4-db22-45c5-b426-dbe9e2368307",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "§ 33, stk. 1, og § 35 finder tilsvarende anvendelse ved beregning af ferieydelse efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id778a646c-d079-47ad-b12e-5d63e29745d6",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om retten til optjening og udbetaling af ferieydelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id7f3285ac-8cf2-42a2-a5a3-d15922c67f1e",
+          "id": "Par25a",
+          "reference": "§ 25 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager, som er i et ansættelsesforhold under fravær efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt., i perioden fra den 1. september 2019 til og med den 31. august 2020, optjener ret til ferieydelse, uanset om der er udbetalt barselsdagpenge under fraværet.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id379871d7-2e2c-4c7b-bf91-607805ced049",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten efter stk. 1 gælder ikke, i det omfang der under fravær efter stk. 1 optjenes ret til",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "løn under ferie og ferietillæg efter ferieloven, kollektiv overenskomst m.v.,",
+                  "guid": "id779e3942-ebc4-4a6d-a2cb-64011bfc927c",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriegodtgørelse efter ferieloven m.v., der som minimum svarer til dagpengesatsen efter § 35, eller",
+                  "guid": "idea3bfeb7-5a97-4f25-aafe-cf4e449e43bb",
+                  "reference": "2)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriedagpenge med ret til udbetaling i perioden fra den 1. maj 2020 til og med den 31. august 2020 efter lov om arbejdsløshedsforsikring m.v.",
+                  "guid": "ida721e7d7-fb78-4d1f-bb18-ecba34b5b506",
+                  "reference": "3)"
+                }
+              ]
+            },
+            {
+              "guid": "idf4ddc274-88ae-4524-86a1-5f5ac4d64f06",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferie med ferieydelse, som er optjent efter stk. 1 i perioden fra den 1. september 2019 til og med den 31. december 2019, afholdes i perioden fra den 1. maj 2020 til og med den 31. august 2020, hvis lønmodtageren i perioden fra den 1. januar 2019 til og med den 31. august 2019 har optjent mindre end 8,4 dages betalt ferie efter ferieloven. Anden ferie med ferieydelse optjent efter stk. 1 udbetales af Udbetaling Danmark efter anmodning.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idd110723e-8e4e-4709-845e-9bc8b7e68999",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, som på grund af særlige forhold, jf. ferielovens § 38, ikke inden den 1. september 2020 kan afholde ferien efter stk. 3, 1. pkt., har ret til at afholde ferien i den efterfølgende ferieafholdelsesperiode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idcf8842da-fd16-4a64-a6d6-868f38b9890e",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, som i et ansættelsesforhold har optjent feriedagpenge efter lov om arbejdsløshedsforsikring m.v. under fravær efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt., har ret til ferie med ferieydelse i den efterfølgende ferieafholdelsesperiode, hvis lønmodtageren på grund af særlige forhold, jf. ferielovens § 38, er forhindret i at afholde ferien med feriedagpenge inden den 1. september 2020.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id2b059165-142d-4c3d-9388-7380b7598d02",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Fratræder lønmodtageren, inden ferien efter stk. 3-5 er afholdt, udbetales ferieydelsen af Udbetaling Danmark efter anmodning.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id4d3134c8-e16a-422e-a2a6-bdef7f72ffd0",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferieydelsen beregnes efter §§ 33 og 35 ud fra forholdene på tidspunktet for fraværet efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt., når ferien afholdes eller udbetales, jf. stk. 3-6.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "iddd43425c-c931-440b-be19-b86e15b258d9",
+              "reference": "Stk. 8",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om retten til optjening og udbetaling af ferieydelse efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idb51972c0-14f8-451f-90b0-5881bf8d75d2",
+          "id": "Par25b",
+          "reference": "§ 25 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager, som er i et ansættelsesforhold under fravær efter § 6, stk. 1, eller § 7, stk. 1 eller 2, fravær overdraget efter § 7 a, stk. 1, eller fravær efter § 8, stk. 6, 1. pkt., eller § 9, stk. 2, i indtil 10 uger efter barnets fødsel eller modtagelse, optjener ret til ferie med ferieydelse, uanset om der er udbetalt barselsdagpenge under fraværet. En far eller medmor, som er omfattet af § 21 c, stk. 1, optjener tilsvarende ret til ferie med ferieydelse for fravær, der holdes indtil 10 uger efter barnets fødsel eller modtagelse.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id8c559802-ec0e-4f1a-acf7-c184f3414f74",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten efter stk. 1 gælder ikke, i det omfang der under fravær efter stk. 1 optjenes ret til",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "løn under ferie og ferietillæg efter ferieloven, kollektiv overenskomst m.v.,",
+                  "guid": "id5d2edc87-a1c3-4f0b-a3d0-979574c2ec27",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriegodtgørelse efter ferieloven m.v., der som minimum svarer til dagpengesatsen efter § 35, eller",
+                  "guid": "id255aebbe-3244-4543-b507-cc112c78a9e4",
+                  "reference": "2)"
+                },
+                {
+                  "type": "list",
+                  "text": "feriedagpenge med ret til udbetaling i ferieafholdelsesperioden efter lov om arbejdsløshedsforsikring m.v.",
+                  "guid": "id1ebd28f6-4b62-41af-b7b9-0747bc6ad9ee",
+                  "reference": "3)"
+                }
+              ]
+            },
+            {
+              "guid": "idaee39176-2f2e-49ca-8bba-d136af86f9a8",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferie med ferieydelse optjent i ferieåret efter stk. 1 afholdes i den tilknyttede ferieafholdelsesperiode, jf. dog stk. 4.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id4fa06d45-b509-4ff2-88d7-d22930b83965",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, som på grund af særlige forhold, jf. ferielovens §§ 12-14, ikke inden ferieafholdelsesperiodens udløb kan afholde optjent ferie med ferieydelse efter stk. 1, har ret til at afholde ferien i den efterfølgende ferieafholdelsesperiode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id5a1d5bfe-5353-49be-9c62-0205d496e4e9",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En lønmodtager, som i et ansættelsesforhold har optjent feriedagpenge efter lov om arbejdsløshedsforsikring m.v. under fravær efter stk. 1, har ret til ferie med ferieydelse i den efterfølgende ferieafholdelsesperiode, hvis lønmodtageren på grund af særlige forhold, jf. ferielovens §§ 12-14, er forhindret i at afholde ferien med feriedagpenge inden ferieafholdelsesperiodens udløb.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idd4764b2a-e0c1-497d-9061-1837bc472fa0",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Fratræder lønmodtageren, inden ferien efter stk. 3-5 er afholdt, udbetales ferieydelsen af Udbetaling Danmark efter anmodning.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf0ea3785-eb93-4bf9-86b5-2b7fce341feb",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferieydelsen beregnes efter §§ 33 og 35 ud fra forholdene på tidspunktet for fraværet efter stk. 1, når ferien afholdes eller udbetales, jf. stk. 3-6.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id5c3a17ed-4802-4b37-b62e-98d6b9e413a8",
+              "reference": "Stk. 8",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om retten til optjening og udbetaling af ferieydelse efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id7065b2fc-205c-4758-ac48-6fc8bea98857",
+          "id": "Par25c",
+          "reference": "§ 25 c",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En person, som ikke er i et ansættelsesforhold under fravær efter § 7, stk. 1 eller 2, eller § 8, stk. 6, 1. pkt., i perioden fra den 1. september 2019 til og med den 31. august 2020, optjener alene ret til ferieydelse i perioden fra den 1. september 2019 til og med den 31. december 2019. Retten er betinget af, at der er udbetalt barselsdagpenge under fraværet, og at der i perioden fra den 1. januar 2019 til og med den 31. august 2019 er optjent mindre end 8,4 dages betalt ferie efter ferieloven. Ferien afholdes i perioden fra den 1. maj 2020 til og med den 31. august 2020.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idfd205171-9a88-41c0-956e-c3c437365824",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten efter stk. 1 gælder ikke, i det omfang der under fravær efter stk. 1 optjenes ret til feriedagpenge med ret til udbetaling i perioden fra den 1. maj 2020 til og med den 31. august 2020 efter lov om arbejdsløshedsforsikring m.v. eller ferieydelse efter § 25 a, stk. 1. Der kan i perioden fra den 1. januar 2019 til og med den 31. december 2019 ikke optjenes mere end sammenlagt 16,6 dage med feriedagpenge med ret til udbetaling i perioden fra den 1. maj 2020 til og med den 31. august 2020 og ferieydelse efter stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id3283ba44-2745-41d3-bbcc-f9f337e37e4d",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling af ferieydelse er betinget af, at personen opfylder beskæftigelseskravet i § 27 ved påbegyndelsen af ferien i ferieperioden efter stk. 1, 3. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id5d99ccc0-7dbb-48bd-8f7d-7e997543f526",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferieydelsen beregnes efter §§ 33 og 35 ud fra forholdene på tidspunktet for afholdelsen af ferien.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf5fd3483-ea19-4824-8070-5006835af2ab",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om retten til optjening og udbetaling af ferieydelse efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id4c3f7de1-f477-4305-b7cc-0af9ab0d9cd8",
+          "id": "Par25d",
+          "reference": "§ 25 d",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En person, som ikke er i et ansættelsesforhold under fravær efter § 6, stk. 1, eller § 7, stk. 1 eller 2, fravær overdraget efter § 7 a, stk. 1, eller fravær efter § 8, stk. 6, 1. pkt., eller § 9, stk. 2, i indtil 10 uger efter barnets fødsel eller modtagelse, optjener ret til ferieydelse, når der udbetales barselsdagpenge under fraværet. En far eller medmor, som er omfattet af § 21 c, stk. 1, optjener tilsvarende ret til ferieydelse, når der udbetales barselsdagpenge for fravær, der holdes indtil 10 uger efter barnets fødsel eller modtagelse.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id4f1f4ff9-0abb-418d-9536-127a2e19fef2",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Retten efter stk. 1 gælder ikke, i det omfang der under fravær efter stk. 1 optjenes ret til feriedagpenge med ret til udbetaling i ferieafholdelsesperioden efter lov om arbejdsløshedsforsikring m.v. eller ferieydelse efter § 25 b, stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc91c2eab-3cc4-46fb-a276-965acfbb4343",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferie med ferieydelse optjent i ferieåret efter stk. 1 afholdes i den tilknyttede ferieafholdelsesperiode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id95142659-4368-4f2e-9cda-bf45425aa753",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling af ferieydelse er betinget af, at personen opfylder beskæftigelseskravet i § 27 ved påbegyndelsen af ferien i ferieafholdelsesperioden.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id7d7be9bd-8984-4317-9b31-57a78cbc8f29",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ferieydelsen beregnes efter §§ 33 og 35 ud fra forholdene på tidspunktet for afholdelsen af ferien.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idd1002946-6a7b-43cc-950d-aa73b0d7b982",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om retten til optjening og udbetaling af ferieydelse efter denne bestemmelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idf106949f-ec40-473c-a765-e42635cc1a6c",
+          "id": "Par26",
+          "reference": "§ 26",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Forældre med alvorligt syge børn under 18 år har ret til dagpenge fra Udbetaling Danmark, hvis de i forbindelse med barnets sygdom helt eller delvis opgiver lønarbejde eller personligt arbejde i selvstændig virksomhed.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ideb4c9365-4dfb-42c2-8c88-6a94a30bc67e",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det er en betingelse, at barnets sygdom skønnes at medføre behov for ophold på hospital eller lignende institution i 12 dage eller mere. Behandling eller pleje i hjemmet kan sidestilles med ophold på hospital, hvis barnets behov i forbindelse med sygdommen taler for det.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id2f0157ab-7a52-46ae-9205-8a88d0b94bd9",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Kravet i stk. 2 om en sygeperiode på 12 dage eller mere gælder ikke ved hospitalsophold for børn af enlige forsørgere, der har ret til ordinært børnetilskud efter § 2, nr. 1 eller 2, i lov om børnetilskud og forskudsvis udbetaling af børnebidrag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id708b7476-dc77-4ced-83dd-a5d4e765b4ed",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark kan i særlige tilfælde beslutte, at der til barnets forældre kan ydes et højere dagpengebeløb end fastsat i § 35, stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ided14deb5-3eb4-47b7-879e-934c6ce0463d",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Der kan højst ydes dagpenge i medfør af stk. 1 i 52 uger inden for de forudgående 18 kalendermåneder.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id24dd2bb0-8200-47e4-a225-9c8290ae71ad",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om betingelserne for udbetaling af dagpenge til forældre med alvorligt syge børn under 18 år, herunder regler om, hvorledes dagpengene fordeles mellem barnets forældre.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id4a331bde-2314-4aec-a18f-e6514b682ca6",
+          "id": "Par26a",
+          "reference": "§ 26 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager i et ansættelsesforhold eller en selvstændig erhvervsdrivende, som er forælder til et barn under 14 år, der hjemsendes som følge af et eller flere konkrete smittetilfælde med covid-19 i dagtilbuddet, skolen eller institutionen m.v., har ret til dagpenge til pasning af barnet fra Udbetaling Danmark, jf. § 26 c.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id05fc42b1-c859-4cea-9f14-cba04ec3a597",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det er en betingelse, at forælderen som lønmodtager ikke har mulighed for at arbejde hjemmefra eller som selvstændig erhvervsdrivende ikke har mulighed for at drive sin virksomhed hjemmefra. Er forælderen lønmodtager, er det desuden en betingelse, at forælderen ikke har afspadsering, der kan bruges til pasning af barnet, og at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag. Deler forældrene bopæl, og er de lønmodtagere eller selvstændige erhvervsdrivende, er det en betingelse, at begge forældre opfylder betingelserne i 1. og 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id57feb6b8-d242-4b4a-905d-5fb9f130129e",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Forælderen skal over for Udbetaling Danmark fremlægge dokumentation for, hvornår dagtilbuddet, skolen eller institutionen m.v. som følge af et eller flere konkrete smittetilfælde med covid-19 har sendt barnet hjem, og på tro og love oplyse sidste dag, barnet er hjemsendt. En lønmodtager skal desuden på tro og love erklære, at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "iddb872929-9c68-4706-a1b7-e9a2770aeb89",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Forælderen skal som lønmodtager over for Udbetaling Danmark fremlægge erklæring fra arbejdsgiveren om, at forælderen ikke har mulighed for at arbejde hjemmefra, at forælderen ikke har afspadsering, der kan bruges til pasning af barnet, og at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag. Forælderen skal som selvstændig erhvervsdrivende over for Udbetaling Danmark på tro og love erklære, at det ikke er muligt at drive sin virksomhed hjemmefra. Deler forældrene bopæl, skal der fremlægges erklæring fra begge forældre efter 1. og 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idebc1f5d7-6b8c-44cb-907a-f65b6a8f36f9",
+          "id": "Par26b",
+          "reference": "§ 26 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager i et ansættelsesforhold eller en selvstændig erhvervsdrivende, som er forælder til et barn under 14 år, der er konstateret smittet med covid-19 og af denne årsag ikke kan komme i dagtilbud, skole eller institution m.v., har ret til dagpenge til pasning af barnet fra Udbetaling Danmark, jf. § 26 c.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idad8f5abd-bf7f-400a-ad91-9e88237c314e",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det er en betingelse, at forælderen som lønmodtager ikke har mulighed for at arbejde hjemmefra eller som selvstændig erhvervsdrivende ikke har mulighed for at drive sin virksomhed hjemmefra. Er forælderen lønmodtager, er det desuden en betingelse, at forælderen ikke har afspadsering, der kan bruges til pasning af barnet, og at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag. Deler forældrene bopæl, og er de lønmodtagere eller selvstændige erhvervsdrivende, er det en betingelse, at begge forældre opfylder betingelserne i 1. og 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id0b9c10ba-4763-4f79-afe6-264f101cbd8a",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Forælderen skal fremlægge dokumentation for positiv test for covid-19 for barnet og på tro og love oplyse sidste dag, hvor det er nødvendigt at barnet er hjemme. En lønmodtager skal desuden på tro og love erklære, at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idb24a67f3-9e77-4228-933a-15ab2582ea6d",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Forælderen skal som lønmodtager over for Udbetaling Danmark fremlægge erklæring fra arbejdsgiveren om, at forælderen ikke har mulighed for at arbejde hjemmefra, at forælderen ikke har afspadsering, der kan bruges til pasning af barnet, og at der ikke udbetales løn af arbejdsgiveren eller holdes ferie samme dag. Forælderen skal som selvstændig erhvervsdrivende på tro og love erklære, at det ikke er muligt at drive sin virksomhed hjemmefra. Deler forældrene bopæl, skal der fremlægges erklæring fra begge forældre efter 1. og 2. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id8fc273af-966b-412c-b18a-02b4d1d51e2f",
+          "id": "Par26c",
+          "reference": "§ 26 c",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetaling Danmark kan for perioden til og med den 31. december 2020 udbetale dagpenge efter §§ 26 a og 26 b for sammenlagt op til 10 fraværsdage vedrørende det enkelte barn. Udbetaling Danmark kan for perioden fra og med den 1. januar 2021 til og med den 31. marts 2021 udbetale dagpenge efter §§ 26 a og 26 b for sammenlagt op til 10 fraværsdage vedrørende det enkelte barn. Udbetaling Danmark kan for perioden fra og med den 1. april 2021 til og med den 30. juni 2021 udbetale dagpenge efter §§ 26 a og 26 b for sammenlagt op til 10 fraværsdage vedrørende det enkelte barn. Udbetaling Danmark kan for perioden fra og med den 23. november 2021 til og med den 28. februar 2022 udbetale dagpenge efter §§ 26 a og 26 b for sammenlagt op til 10 fraværsdage vedrørende det enkelte barn. Dagpengene beregnes og udbetales efter lovens almindelige regler for beregning og udbetaling til lønmodtagere og selvstændige. Der kan kun udbetales dagpenge til én forælder pr. dag, barnet er hjemme, og der kan kun udbetales dagpenge for hele fraværsdage. En forælder kan kun få udbetalt dagpenge for ét barn pr. dag. Ansøges der om dagpenge for mere end 10 dage for det enkelte barn, udbetales dagpengene for dagene i den rækkefølge, som Udbetaling Danmark har modtaget den nødvendige dokumentation for dagene.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id897d2803-9b0d-4e5a-8090-f986dab7a79a",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Den første fraværsdag er den dag, hvor betingelserne for at få dagpenge efter §§ 26 a eller 26 b er opfyldt. Fraværsperioden anses for afsluttet, når barnet kan komme i dagtilbud, skole eller institution m.v. igen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id26d02b54-820b-423d-89eb-ef2bde1c6c67",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Anmodning om dagpenge efter §§ 26 a og 26 b indgives til Udbetaling Danmark efter reglerne i § 31 og de regler, der er fastsat efter § 31, stk. 2.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Beskæftigelseskrav",
+      "guid": "id59128810-2edd-45c9-bb5d-67c4cd0dd5e8",
+      "paragraphs": [
+        {
+          "guid": "id7658cce6-c6b5-46f2-9824-eca536dc91f7",
+          "id": "Par27",
+          "reference": "§ 27",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En lønmodtager har ret til barselsdagpenge fra Udbetaling Danmark, når den pågældende",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "dagen før fraværet eller på første fraværsdag er i beskæftigelse og har været beskæftiget i mindst 160 timer, jf. stk. 2, inden for de seneste 4 afsluttede kalendermåneder forud for fraværsperioden og i mindst 3 af disse måneder har været beskæftiget i mindst 40 timer i hver måned,",
+              "guid": "id48748cef-6b64-4de5-9d59-1249109e05d4",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "ville have været berettiget til arbejdsløshedsdagpenge eller en ydelse, der træder i stedet herfor, jf. lov om arbejdsløshedsforsikring m.v., hvis der ikke havde været ret til dagpenge efter denne lov,",
+              "guid": "idc2ef7ec4-8bbb-4e62-af38-02c11c14e6d8",
+              "reference": "2)"
+            },
+            {
+              "type": "list",
+              "text": "inden for den seneste måned har afsluttet en erhvervsmæssig uddannelse af mindst 18 måneders varighed,",
+              "guid": "idc87935e5-968b-4aba-bf47-76ea65a7ae27",
+              "reference": "3)"
+            },
+            {
+              "type": "list",
+              "text": "er elev i lønnet praktik i en uddannelse, der er reguleret ved eller i henhold til lov, eller",
+              "guid": "id0650f667-a85b-43ea-8166-21d2c6a0c519",
+              "reference": "4)"
+            },
+            {
+              "type": "list",
+              "text": "er ansat i et fleksjob efter § 120 i lov om en aktiv beskæftigelsesindsats.",
+              "guid": "id2e77ec8d-6880-41fc-9bd3-0a05097347da",
+              "reference": "5)"
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id47ac682c-116e-4135-b45e-7c0649081779",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Opgørelsen af beskæftigelseskravet efter stk. 1, nr. 1, sker på baggrund af indberetninger til indkomstregisteret, jf. lov om et indkomstregister, jf. dog stk. 4. Ved opgørelsen indgår timer, hvor lønmodtageren har,",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "arbejdet som lønmodtager,",
+                  "guid": "id832e36b3-b619-44e8-a2e1-4050d68ed69b",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "arbejdet som selvstændig erhvervsdrivende umiddelbart forud for arbejdet som lønmodtager og med virksomheden har opfyldt beskæftigelseskravet efter § 28,",
+                  "guid": "id61c7d47e-2feb-4d33-ba26-7670dd52ef3a",
+                  "reference": "2)"
+                },
+                {
+                  "type": "list",
+                  "text": "modtaget dagpenge efter lov om sygedagpenge eller dagpenge efter denne lov,",
+                  "guid": "id346db3f9-a3b1-445a-96a2-c730da0a8ddd",
+                  "reference": "3)"
+                },
+                {
+                  "type": "list",
+                  "text": "modtaget arbejdsløshedsdagpenge eller en ydelse, der træder i stedet herfor,",
+                  "guid": "id0c7fdd7a-f374-49cd-a1a1-deea3eb03c0f",
+                  "reference": "4)"
+                },
+                {
+                  "type": "list",
+                  "text": "afholdt ferie med løn eller feriegodtgørelse eller",
+                  "guid": "idad2cf272-66d0-494b-8a89-80af7248e9c5",
+                  "reference": "5)"
+                },
+                {
+                  "type": "list",
+                  "text": "modtaget godtgørelse i en opsigelsesperiode fra Lønmodtagernes Garantifond.",
+                  "guid": "id8e7a0e3b-e220-418a-9ab5-d26f351367c1",
+                  "reference": "6)"
+                }
+              ]
+            },
+            {
+              "guid": "id072e1150-d1bf-441b-988b-46b09632614f",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved vurderingen af, om beskæftigelseskravet efter stk. 1 er opfyldt, ses der bort fra perioder på indtil 2 år, hvor der efter lov om social service er ydet godtgørelse for tabt arbejdsfortjeneste ved pasning af et handicappet barn i hjemmet eller efter samme lov er ydet vederlag ved pasning af døende eller efter denne lovs § 26 er ydet dagpenge til forældre med alvorligt syge børn. Endvidere ses bort fra perioder, hvor der ville være ret til barselsdagpenge efter § 21, men hvor den anden forælder har fået udbetalt barselsdagpengene eller dennes arbejdsgiver har fået udbetalt refusion, og fra perioder, hvor lønmodtageren har været omfattet af en arbejdskonflikt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idcaac17cc-7bda-4706-8ae2-94be681cab7d",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om, hvornår beskæftigelseskravet efter stk. 1, nr. 1, er opfyldt, og om opgørelse og placering af timer samt omregning m.v. af indkomster vedrørende timer omfattet af stk. 2. Beskæftigelsesministeren kan desuden fastsætte nærmere regler om, at beskæftigelse og indkomster, som ikke er indberettet til indkomstregisteret, jf. lov om et indkomstregister, kan indgå ved opgørelsen af timer efter stk. 1, nr. 1, og stk. 2.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "ide3fcae75-34ae-4a72-b49a-8a7c71362d27",
+          "id": "Par28",
+          "reference": "§ 28",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Retten til barselsdagpenge for en selvstændig erhvervsdrivende er betinget af, at der inden for de sidste 12 måneder har været udøvet selvstændig virksomhed i mindst halvdelen af den normale overenskomstmæssige ugentlige arbejdstid i mindst 6 måneder, heraf den seneste måned forud for fraværet. Har den selvstændige virksomhed været udøvet i mindre end 6 måneder, medregnes perioder med forudgående beskæftigelse som lønmodtager.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id98073675-28ac-4b2e-97a5-8cfd02d7552f",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved vurderingen af, om beskæftigelseskravet efter stk. 1 er opfyldt, ses der bort fra perioder på indtil 2 år, hvor der efter lov om social service er ydet godtgørelse for tabt arbejdsfortjeneste ved pasning af et handicappet barn i hjemmet eller efter samme lov er ydet vederlag ved pasning af døende eller efter denne lov er ydet barselsdagpenge til forældre under fravær efter § 13 eller efter § 26 er ydet dagpenge til forældre med alvorligt syge børn. Ved vurderingen kan endvidere helt eller delvis ses bort fra perioden fra og med den 1. marts 2020 til og med den 31. august 2020. Ved vurderingen kan desuden helt eller delvis ses bort fra perioden fra og med den 1. december 2020 til og med den 30. april 2021. Ved vurderingen kan desuden helt eller delvis ses bort fra perioden fra og med den 1. december 2020 til og med den 30. april 2021. For en selvstændig erhvervsdrivende, der i løbet af perioden fra og med den 1. juli 2021 til og med den 30. september 2021 har modtaget arbejdsløshedsdagpenge efter § 57, stk. 8, i lov om arbejdsløshedsforsikring m.v., kan der også ved vurderingen helt eller delvis ses bort fra perioden fra og med den 1. maj 2021 til og med den 30. september 2021.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc44ce2c3-79e3-4541-828f-b409382b97f2",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En selvstændigt erhvervsdrivende, som får tilskud til bevarelse af beskæftigelsen i egen virksomhed efter § 126 i lov om en aktiv beskæftigelsesindsats, har uanset kravet i stk. 1 ret til barselsdagpenge som selvstændigt erhvervsdrivende.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id449ed120-c3a8-460d-a579-b4ab80e8870b",
+          "id": "Par29",
+          "reference": "§ 29",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Betingelsen for udbetaling af barselsdagpenge er, at beskæftigelseskravet i § 27 eller beskæftigelseskravet i § 28 er opfyldt ved påbegyndelse af den enkelte fraværsperiode. For en forælder, der har afholdt fravær efter §§ 6-9, og som fortsat er dagpengeberettiget ledig, lønmodtager i beskæftigelse eller selvstændig erhvervsdrivende, anses beskæftigelseskravet dog for opfyldt i forhold til efterfølgende fraværsperioder, der påbegyndes indtil 1 år efter barnets fødsel eller modtagelse. Påbegyndelsen af fravær efter § 13 anses ikke for en ny fraværsperiode for forældre, der ved overgang til fravær efter § 13 udnytter en ret til fravær efter §§ 6-9 eller 26 med ret til barselsdagpenge. Tilsvarende anses påbegyndelse af fravær efter §§ 6-9 eller 26 ikke for en ny fraværsperiode for forældre, der ved overgang til fravær efter §§ 6-9 eller 26 udnytter retten til fravær efter § 13 med ret til barselsdagpenge.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id27764843-a755-462b-a606-6ec3d8a424cc",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Der kan dog udbetales barselsdagpenge fra det tidspunkt, hvor en person efter fraværets påbegyndelse opfylder det beskæftigelseskrav, der er nævnt i § 27, stk. 1, nr. 2.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id8c2b8e04-5365-4a25-aa58-bb3fd550cd93",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved opgørelse af beskæftigelseskravet efter stk. 1 medregnes perioder, hvor en kvinde på grund af arbejdsforholdets særlige karakter har måttet ophøre med arbejdet inden 4 uger før fødslen eller det efter en lægelig bedømmelse skønnes nødvendigt, at kvinden var skånet for arbejde.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id4c4b36f9-e2b2-4aef-8181-0e8c8d5ed2dc",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Betingelserne i stk. 1 gælder ikke for udbetaling af dagpenge under forebyggende graviditetsundersøgelser efter § 18.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Den dagpengeberettigedes ansøgning om barselsdagpenge",
+      "guid": "ide8c0d607-35e8-4732-8ef8-c59c91906fc1",
+      "paragraphs": [
+        {
+          "guid": "id3e1bc903-caf4-4fa4-92bf-eff705a05e64",
+          "id": "Par30",
+          "reference": "§ 30",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved anmodning om barselsdagpenge efter § 20 i forbindelse med fravær før 4 uger før forventet fødsel, jf. § 6, stk. 2, skal fraværet anmeldes og dokumenteres. Beskæftigelsesministeren fastsætter regler herom.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id966761ff-de18-4653-b7c9-cbf1dbdf319d",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Anmodning om barselsdagpenge efter §§ 20-23 skal for andre end et ledigt medlem af en arbejdsløshedskasse indgives til Udbetaling Danmark senest 8 uger efter fødslen eller barnets modtagelse. Påbegyndes en fraværsperiode på et senere tidspunkt, skal anmodning om barselsdagpenge indgives senest 8 uger efter 1. fraværsdag i denne periode, jf. dog stk. 8.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf322633e-0dd3-4a96-8130-c4f124f3d6c8",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Har arbejdsgiveren udbetalt løn under fraværet, skal lønmodtagerens anmodning om barselsdagpenge efter ophør af lønudbetalingen indgives til Udbetaling Danmark senest 8 uger efter, at udbetaling af løn fra arbejdsgiveren er ophørt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idce5fba99-7509-47ca-a32a-4f49ad33dda7",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Et ledigt medlem af en arbejdsløshedskasse, der ønsker at ansøge om barselsdagpenge efter §§ 20, 21, 21 b eller 21 c, skal senest 8 uger efter fødslen eller barnets modtagelse anmelde fraværet til arbejdsløshedskassen. Påbegyndes en fraværsperiode på et senere tidspunkt, skal anmeldelse af fraværet til arbejdsløshedskassen ske senest 8 uger efter 1. fraværsdag i denne periode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idb642e562-d242-4b4f-8946-d724cf84d8d0",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Senest 1 uge efter modtagelsen af en anmeldelse efter stk. 4 skal arbejdsløshedskassen anmelde fraværet via Nemrefusion til Udbetaling Danmark, der herefter udsender et underretningsbrev til det ledige medlem med de modtagne oplysninger.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf859b2d3-b38e-4801-917f-a077c453dc7a",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det ledige medlem skal senest 8 uger efter at have modtaget underretningsbrevet efter stk. 5 anmode Udbetaling Danmark om barselsdagpenge.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id7206eec3-a101-4e7a-8e35-f48f66715f6d",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Er anmodningen indgivet efter fristerne i stk. 2, 3 eller 6, eller er anmeldelsen sket efter fristen i stk. 4, bortfalder retten til barselsdagpenge for den periode, der ligger før anmodningen eller anmeldelsen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idc1cb57cb-58f5-4907-8831-7dbee90cad4d",
+              "reference": "Stk. 8",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om muligheden for, at en lønmodtager ikke skal indgive ny ansøgning efter stk. 2, når fraværsperioden er afbrudt i en kortere periode på grund af afholdelse af ferie, på hvilken måde anmodninger efter stk. 2, 3 og 6 skal indgives, og om dispensation fra fristen i stk. 2-4 og 6.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idd64b553a-bc01-42ef-8618-51ec688b3b52",
+          "id": "Par31",
+          "reference": "§ 31",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Anmodning om dagpenge ved pasning af alvorligt syge børn efter § 26 skal indgives til Udbetaling Danmark senest 8 uger efter første fraværsdag. Indgives anmodningen efter denne frist, bortfalder retten til barselsdagpenge for den periode, der ligger før anmodningen.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id52ee11ce-bb80-4a06-a650-cf42f4c190bd",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om, på hvilken måde ansøgning efter stk. 1 skal indgives, og om dispensation fra fristen i stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Beregningsgrundlaget for barselsdagpenge",
+      "guid": "id28d52d67-959f-4870-96db-e24c982f30f5",
+      "paragraphs": [
+        {
+          "guid": "idd771a7bf-2d1e-4ae1-9b0e-c31984ec5dbf",
+          "id": "Par32",
+          "reference": "§ 32",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpenge ydes på grundlag af lønindtægt og anden indtægt, der erstatter lønindtægt, jf. stk. 2, og selvstændig erhvervsindtægt.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id60eb2d97-335c-4ec9-9cc3-e25211a16907",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om, hvilke indtægter der skal henregnes til lønindtægt, og hvilke indtægter der skal henregnes til selvstændig erhvervsindtægt, og om beregning af barselsdagpenge på grundlag af arbejdsfortjenesten ved selvstændig virksomhed, herunder om anvendelse af indtægtsoplysninger fra skatteforvaltningen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idf8d0f746-7beb-4768-8fb2-d453a32739a5",
+          "id": "Par33",
+          "reference": "§ 33",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpenge til lønmodtagere, der er fraværende, beregnes på grundlag af det ugentlige timetal under fraværet og den timefortjeneste, som lønmodtageren i gennemsnit har opnået i aktuelle ansættelsesforhold i de seneste 3 afsluttede kalendermåneder forud for fraværets begyndelse, efter betaling af arbejdsmarkedsbidrag. Opgørelse af timefortjenesten sker på baggrund af indberetninger i henhold til lov om et indkomstregister, jf. dog stk. 2.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id5d0d3a8d-d350-434d-8e13-109a618ed5b3",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om",
+                  "guid": null,
+                  "reference": null
+                },
+                {
+                  "type": "list",
+                  "text": "opgørelse af timefortjenesten efter stk. 1, herunder placeringen af indberettede løntimer og indkomst, omregning af indkomst m.v.,",
+                  "guid": "id21b5a3a8-51e8-4cf9-b341-4ee0ff65bb29",
+                  "reference": "1)"
+                },
+                {
+                  "type": "list",
+                  "text": "at beskæftigelse og indkomster, som ikke er indberettet til indkomstregisteret, jf. lov om et indkomstregister, kan indgå ved opgørelsen af timefortjenesten,",
+                  "guid": "idd46b15a8-4e7a-4f37-a2c2-1d29f8e1fcb4",
+                  "reference": "2)"
+                },
+                {
+                  "type": "list",
+                  "text": "opgørelse af timetal og anvendelse af andre beregningsperioder end fastsat i stk. 1 for lønmodtagere med ukendt eller varierende arbejdstid m.v.,",
+                  "guid": "id085c6eb7-9c81-4e1e-bd51-ed29d6d2df02",
+                  "reference": "3)"
+                },
+                {
+                  "type": "list",
+                  "text": "beregning af barselsdagpenge for lønmodtagere, der påbegynder en ny fraværsperiode kort tid efter sidste fraværsperiode, nyuddannede, nyansatte m.v.,",
+                  "guid": "id36519dd9-3d19-46c4-bcb9-0ca223764d1c",
+                  "reference": "4)"
+                },
+                {
+                  "type": "list",
+                  "text": "omberegning af barselsdagpenge for lønmodtagere, der indbetaler ekstra bidrag på en arbejdsgiveradministreret pensionsopsparing,",
+                  "guid": "id96e1403f-3dd0-4f37-b1fc-65814d5627f0",
+                  "reference": "5)"
+                },
+                {
+                  "type": "list",
+                  "text": "omberegning af barselsdagpenge i særlige tilfælde og",
+                  "guid": "ide5ebcceb-2a6c-4848-9566-a93d19caca5b",
+                  "reference": "6)"
+                },
+                {
+                  "type": "list",
+                  "text": "fravigelse af § 35, stk. 1, for lønmodtagere med skiftende arbejdstid.",
+                  "guid": "idfa11ff79-e7b3-4998-a62a-637b0b94ddda",
+                  "reference": "7)"
+                }
+              ]
+            },
+            {
+              "guid": "id58e91259-e4c3-4f0f-a049-4d7d35854889",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om udbetaling af barselsdagpenge for uger, hvori arbejdet er genoptaget delvis.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idc26b2379-a027-4916-b6b0-c59c353fb35a",
+          "id": "Par34",
+          "reference": "§ 34",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Beskæftigelsesministeren fastsætter regler om beregning af dagpenge efter denne lov til personer ansat i fleksjob og selvstændigt erhvervsdrivende, som får tilskud til bevarelse af beskæftigelsen i egen virksomhed efter kapitel 20 i lov om en aktiv beskæftigelsesindsats. Beskæftigelsesministeren fastsætter ligeledes regler om beregning af dagpenge efter denne lov, hvis ansættelsen ophører i en orlovsperiode.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Barselsdagpengenes størrelse",
+      "guid": "idad1bd018-ccac-44f4-abb3-e951209b1323",
+      "paragraphs": [
+        {
+          "guid": "id00f2f9ac-25f7-425a-8e68-86e0c87231ee",
+          "id": "Par35",
+          "reference": "§ 35",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpenge til lønmodtagere efter § 33 kan ikke udgøre mere end 3.332 kr. om ugen og ikke mere pr. time end dette beløb divideret med den normale overenskomstmæssige ugentlige arbejdstid.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ida802c76b-bb49-4273-918f-8cfb363d2e99",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Medmindre andet er oplyst, udbetales barselsdagpenge til lønmodtagere efter en 5-dages-uge med lige store andele pr. dag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "ida15436e5-7d7e-4dfa-baa7-3765c00eb599",
+          "id": "Par36",
+          "reference": "§ 36",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpenge til et ledigt medlem af en anerkendt arbejdsløshedskasse udbetales med den sats, som personen på første dag med ret til barselsdagpenge pr. dag kunne have modtaget i arbejdsløshedsdagpenge, hvis den pågældende ikke havde modtaget dagpenge efter denne lov, jf. dog stk. 2 og 3.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id205116d3-2be0-4507-8add-eb71cc2e3120",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge til et ledigt medlem af en anerkendt arbejdsløshedskasse, der deltager i tilbud efter §§ 96 eller 97 a i lov om en aktiv beskæftigelsesindsats, er omfattet af den midlertidige ordning om arbejdsfordeling, jf. § 53, stk. 25, i lov om arbejdsløshedsforsikring m.v., eller har ret til at modtage arbejdsløshedsdagpenge med satsen efter § 48, stk. 8, i lov om arbejdsløshedsforsikring m.v., beregnes dog efter stk. 1 på samme måde, som hvis den pågældende ikke deltog i tilbuddet eller arbejdsfordelingen eller ikke havde ret til at modtage arbejdsløshedsdagpenge med satsen efter § 48, stk. 8, i lov om arbejdsløshedsforsikring m.v. Barselsdagpenge til personer, der får ret til barselsdagpenge efter § 29, stk. 2, udbetales med den sats, som personen på første dag med ret til barselsdagpenge pr. dag kunne have modtaget i arbejdsløshedsdagpenge.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide645b6b7-6765-4da4-bf83-1e6239a04489",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Barselsdagpenge til et medlem af en anerkendt arbejdsløshedskasse, der bliver ledig i fraværsperioden, udbetales med den sats, som personen på første dag med ret til barselsdagpenge efter ansættelsens ophør pr. dag kunne have modtaget i arbejdsløshedsdagpenge, jf. dog stk. 2, 1. pkt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf6e1c355-1876-4756-a9c5-37dc90bcc3e2",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om beregning af barselsdagpenge på grundlag af supplerende arbejdsløshedsdagpenge samt regler om fremadrettet ændring af satsen i stk. 1-3 i særlige tilfælde.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6024ca6f-ed31-47ce-b97f-2e1b149000f9",
+          "id": "Par37",
+          "reference": "§ 37",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpenge til selvstændige erhvervsdrivende kan pr. uge ikke udgøre mere end det beløb, der er nævnt i § 35, stk. 1. Er der tegnet en frivillig sikring efter reglerne i kapitel 16 i lov om sygedagpenge, udgør barselsdagpengene mindst 2/3 af det beløb, der er nævnt i § 35, stk. 1.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id3b68dde1-2241-48d2-a194-5cfc82bcb882",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Til selvstændige erhvervsdrivende udbetales barselsdagpenge efter en 5-dages-uge fra mandag til fredag med lige store andele pr. dag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide4be4699-6e0d-445c-9fe6-5dd35feadd79",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter regler om udbetaling af barselsdagpenge for uger, hvori arbejdet er genoptaget delvis.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id73331626-40f2-4152-8914-45415d1b4364",
+          "id": "Par38",
+          "reference": "§ 38",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Det dagpengebeløb, der er nævnt i § 35, stk. 1, reguleres én gang om året pr. den første mandag i januar med 1,7 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent. Det regulerede beløb afrundes til det nærmeste hele kronebeløb, der kan deles med fem. Det afrundede beløb danner grundlag for det kommende års satsregulering.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id1412d253-cb28-4943-9948-60ce384b1124",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "I satsreguleringen efter stk. 1 fradrages for finansårene 2020-2023 en procentsats på 0,75.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "ide44ef01f-1772-4209-96d6-c932d8ea4032",
+          "id": "Par38a",
+          "reference": "§ 38 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "(Ophævet)",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Refusion og finansiering m.v.",
+      "guid": "idd9c3015d-9820-4a9d-9f85-a3c54b36895d",
+      "paragraphs": [
+        {
+          "guid": "id39602463-5a0d-455d-baab-9c668a1f5226",
+          "id": "Par39",
+          "reference": "§ 39",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En arbejdsgiver, der udbetaler løn under fravær fra arbejdet, er berettiget til at få udbetalt de barselsdagpenge, som lønmodtageren ellers ville have ret til fra Udbetaling Danmark vedrørende samme arbejdsforhold, dog højst med et beløb svarende til den udbetalte løn under fraværet.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id279ed79e-d8cc-41ab-aa9b-454210731e8a",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Får lønmodtageren udbetalt løn under fravær fra flere arbejdsgivere, deles barselsdagpengene mellem arbejdsgiverne i forhold til de dagpengebeløb, som de enkelte arbejdsforhold berettiger til.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id2fe6e383-c1b5-40dd-a305-e3ebaa94a632",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En arbejdsgiver, der udbetaler løn under fravær efter § 6, stk. 2, skal for at kunne gøre et refusionskrav gældende, jf. § 40, stk. 2, anmelde fraværet og dokumentere retten til fravær.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id7e05752b-bb7e-4b17-9566-a8c84c865207",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om anvendelsen af bestemmelsen i stk. 3, herunder om konsekvensen for arbejdsgivers ret til refusion ved manglende overholdelse af fristen for anmeldelse af fraværet efter § 6, stk. 2.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id72f735e7-6465-460c-b011-bd57a223893c",
+          "id": "Par39a",
+          "reference": "§ 39 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En arbejdsgiver, som modtager refusion efter denne lov, er berettiget til at modtage et tillæg til refusion.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id4af9cb03-ba86-4eea-9fc4-663404465424",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Tillægget til refusion beregnes med den procentsats, der er nævnt i § 39 b, på grundlag af refusionen til arbejdsgiveren. Tillægget til refusion for 1 uge afrundes til nærmeste hele kronebeløb.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id34483198-7933-4b3b-8a08-76281fe3e2e0",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark opgør og udbetaler tillægget til refusion.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id0bfa3cd0-4730-4d96-be24-1e760f2e3842",
+          "id": "Par39b",
+          "reference": "§ 39 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Tillægget til refusion til arbejdsgiveren beregnes med følgende procentsatser:",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "Fra den 6. januar 2020 med 0,3 pct.",
+              "guid": "ide487085b-3d3a-4567-bd40-4aa4808dfd58",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 4. januar 2021 med 0,6 pct.",
+              "guid": "id48a9ef95-4463-44d8-8a1d-46e405d591ba",
+              "reference": "2)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 3. januar 2022 med 0,9 pct.",
+              "guid": "idd0f8ddae-8867-400b-bfc3-cefc4e2bf9c5",
+              "reference": "3)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 2. januar 2023 med 1,2 pct.",
+              "guid": "id6df273e7-b771-4440-8b14-0b295f3deb94",
+              "reference": "4)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 1. januar 2024 med 1,5 pct.",
+              "guid": "id82dcce37-96f8-41ac-97d3-7be50f776398",
+              "reference": "5)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 6. januar 2025 med 1,8 pct.",
+              "guid": "id5b5411c6-df8d-4a5e-8ec3-99ce1272ccc2",
+              "reference": "6)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 5. januar 2026 med 2,1 pct.",
+              "guid": "idf564b211-97c6-47cd-8b17-2f811c56b898",
+              "reference": "7)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 4. januar 2027 med 2,4 pct.",
+              "guid": "ide9022e8d-1c29-4795-8197-416484b971a1",
+              "reference": "8)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 3. januar 2028 med 2,7 pct.",
+              "guid": "ide26cf93d-efbe-4dc5-91b8-adc5d2d331d2",
+              "reference": "9)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 1. januar 2029 med 3,0 pct.",
+              "guid": "id8f8b0d58-97e7-4476-afec-a0dd25f2a076",
+              "reference": "10)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 7. januar 2030 med 3,3 pct.",
+              "guid": "ideadaa6de-a3e0-468c-903e-0472e392eef7",
+              "reference": "11)"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id14739b3c-5306-4e8c-906b-1f82476763e6",
+          "id": "Par39c",
+          "reference": "§ 39 c",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Beskæftigelsesministeren fastsætter regler om en arbejdsgivers tillæg til refusion, herunder regler om beregning og udbetaling af tillæg til refusion og tilbagebetaling af tillæg til refusion.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id05db0f61-aea1-48ac-a21b-d03e8912bc0d",
+          "id": "Par40",
+          "reference": "§ 40",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En arbejdsgiver, der efter § 39 er berettiget til refusion af barselsdagpenge, skal anmelde refusionskravet via Nemrefusion til Udbetaling Danmark.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id530988ce-6102-4b33-b060-663f6b41ff84",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Arbejdsgiverens anmodning om refusion for løn udbetalt i forbindelse med fravær på grund af graviditet, barsel, adoption og sorgorlov og ved pasning af alvorligt syge børn efter § 26 skal indgives til Udbetaling Danmark senest 8 uger efter en orlovsperiodes udløb. Indgives anmodning efter denne frist, bortfalder retten til refusion for denne periode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id47478117-265d-4a6a-9a2e-e52614047686",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En orlovsperiode anses for udløbet, når der i 1 uge ikke har været fravær, der berettiger til refusion.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ided9b621f-d6da-43d6-93a1-6c2ccf719da9",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark kan dog udbetale refusion, når overskridelse af fristen i stk. 2 skyldes driftsforstyrrelser hos Nemrefusion af et omfang og en varighed, der har afskåret arbejdsgiveren fra at anmelde rettidigt.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id052384dc-e827-45c3-bf20-17c14adcf3e9",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Der kan ikke ydes refusion for løn eller dagpenge udbetalt i forbindelse med fravær på grund af forebyggende graviditetsundersøgelser.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id442ebab4-ee6e-4d08-ac23-190e3ee1720c",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Ved anmeldelse af refusionskrav skal lønmodtageren orienteres om de oplysninger, som arbejdsgiveren har givet til Udbetaling Danmark ved anmeldelsen af refusionskravet. En lønmodtager, der ikke er enig i det af arbejdsgiveren oplyste, skal gøre Udbetaling Danmark opmærksom herpå.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide2ec38f4-8c2f-49db-b0fb-9f42ed1b1c15",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren kan fastsætte nærmere regler om, på hvilken måde arbejdsgiverens refusionskrav skal anmeldes til Udbetaling Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id764c9eb2-2224-4054-8a2b-374c40bc960b",
+          "id": "Par41",
+          "reference": "§ 41",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Der ydes ikke refusion af udgifter til dagpenge efter § 18.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id0d159589-36f6-4ee0-837d-25bae6c076f8",
+          "id": "Par42",
+          "reference": "§ 42",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Staten afholder udgifterne til Udbetaling Danmarks udbetalinger efter denne lov.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id28e488b6-e774-4969-b09b-81737c943d0b",
+          "id": "Par43",
+          "reference": "§ 43",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "(Ophævet)",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Indbetaling m.v. til Arbejdsmarkedets Tillægspension og den obligatoriske pensionsordning",
+      "guid": "id464c8587-409f-4b1f-844d-8d75b8f4eb2a",
+      "paragraphs": [
+        {
+          "guid": "id1435ca23-2549-4ac3-a485-e12b13c18974",
+          "id": "Par44",
+          "reference": "§ 44",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved udbetaling af dagpenge fra Udbetaling Danmark efter denne lov til lønmodtagere, der er fyldt 16 år, indbetales det dobbelte af det bidrag, der er fastsat efter § 15 sammenholdt med § 2 a i lov om Arbejdsmarkedets Tillægspension.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idf844498e-0e62-494d-bbb1-6d24824f7a06",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "De nærmere regler for beregningen af bidraget fastsættes af bestyrelsen for Arbejdsmarkedets Tillægspension efter principperne i § 15 i lov om Arbejdsmarkedets Tillægspension.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide286fa4c-25ae-4d44-b7be-564888813280",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Lønmodtageren betaler 1/3 af bidraget, mens 2/3 betales af Udbetaling Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idbbc1d3f8-3c5a-43df-9280-2814b72c0fd1",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Det af Udbetaling Danmark beregnede lønmodtagerbidrag afrundes til nærmeste hele kronebeløb. Udbetaling Danmarks andel af bidraget udgør det dobbelte heraf.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id837cee3a-f05c-4869-b6a1-14643798fa06",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Lønmodtagerens del af bidraget tilbageholdes ved dagpengeudbetalingen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idc282d3b6-3a94-418f-8725-5517ffdf9d74",
+          "id": "Par45",
+          "reference": "§ 45",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetaling Danmarks indbetaling til Arbejdsmarkedets Tillægspension dækkes af et bidrag fra arbejdsgiveren. Udbetaling Danmarks udgifter til indbetaling efter § 44, stk. 3, afholdes af staten.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ide8a72a39-2542-4e1a-85ef-1a3a73b3e214",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Arbejdsgiverbidraget beregnes i forhold til antallet af lønmodtagere fra arbejdsgivere, der modtager barselsdagpenge fra Udbetaling Danmark.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id30f9f152-c684-464c-b270-187c259e0e81",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Til dækning af arbejdsgiverens del af ATP-bidraget, jf. stk. 1, skal private arbejdsgivere, der er registreret efter momsloven eller lov om afgift af lønsum m.v., betale finansieringsbidrag. Kravet om registrering gælder ikke for udenlandske virksomheder og virksomheder på Færøerne og i Grønland.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id3b9ef5c1-9771-41c5-abef-669ff48de31f",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Private arbejdsgivere, som ikke er registreret efter lov om afgift af lønsum m.v., og som alene er registreret efter momsloven som følge af køb af varer, som er nævnt i § 46, stk. 1, nr. 8-10, i momsloven, i Danmark eller inden for det øvrige EU, kan efter ansøgning til Arbejdsmarkedets Tillægspension fritages for pligt til at betale finansieringsbidrag efter stk. 3.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idad69a8ea-4473-4e1e-8b25-81e39c82ae61",
+              "reference": "Stk. 5",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Finansieringsbidraget skal indbetales til Arbejdsmarkedets Tillægspension, som forestår opkrævning og inddrivelse af finansieringsbidrag fra arbejdsgiverne.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id94b15b93-81b5-4864-9a87-9ac317efe9da",
+              "reference": "Stk. 6",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Finansieringsbidrag efter stk. 5 kan opkræves sammen med andre finansieringsbidrag, der af Arbejdsmarkedets Tillægspension opkræves fra arbejdsgiverne.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idffd8866f-7ed2-4070-806d-57ba7850b8aa",
+              "reference": "Stk. 7",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Finansieringsbidrag, der skal opkræves efter stk. 5, og som er under 100 kr. i en betalingsperiode, falder bort. Opkræves finansieringsbidrag sammen med andre finansieringsbidrag fra arbejdsgivere, jf. stk. 6, udgør bidraget i 1. pkt. summen af de samlede finansieringsbidrag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id1b16b390-072c-49d0-874a-2d962e727465",
+              "reference": "Stk. 8",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Finansieringsbidraget fra arbejdsgiverne efter stk. 1 og 3 fastsættes af beskæftigelsesministeren efter indstilling fra Arbejdsmarkedets Tillægspension. I finansieringsbidraget indgår administrationsomkostninger, herunder administrationsomkostninger til Arbejdsmarkedets Tillægspension. Beskæftigelsesministeren fastsætter nærmere regler om finansieringsbidragets størrelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idb579d776-2dff-4d95-8c63-ba75392cf2c9",
+              "reference": "Stk. 9",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "De private arbejdsgiveres finansieringsbidrag efter stk. 8 nedsættes med et beløb, der årligt fastsættes af beskæftigelsesministeren. Staten dækker udgiften til den årlige nedsættelse af finansieringsbidraget.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idd2b783ed-225a-4e62-960e-a4de30ef5398",
+              "reference": "Stk. 10",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Finansieringsbidraget beregnes af Arbejdsmarkedets Tillægspension på grundlag af de samlede bidrag, som Arbejdsmarkedets Tillægspension har modtaget fra arbejdsgiveren i en forudgående periode, hvis længde svarer til den periode, som betaling af finansieringsbidrag vedrører. Bidraget udgør årligt det af beskæftigelsesministeren fastsatte finansieringsbidrag, for hver gang arbejdsgiveren indbetaler et beløb, der svarer til årsbidraget efter § 15, stk. 1, i lov om Arbejdsmarkedets Tillægspension.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id9f9ce5b4-44ed-4c14-9f5b-fcb179ddd904",
+              "reference": "Stk. 11",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Arbejdsmarkedets Tillægspension kan indhente de oplysninger hos skattemyndigheder og andre offentlige myndigheder om den pågældende arbejdsgiver, som er nødvendige for at varetage opkrævningen og inddrivelsen af skyldige finansieringsbidrag, renter og ekspeditionsgebyrer, herunder oplysninger om indkomst- og formueforhold. Til brug ved beregning, opkrævning og behandling af finansieringsbidrag er der i nødvendigt omfang adgang til oplysninger i Arbejdsmarkedets Tillægspensions registre.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idf1fa05a9-acc8-4ef3-86ae-5373edf2eecd",
+              "reference": "Stk. 12",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Sker indbetaling af finansieringsbidrag ikke rettidigt, skal arbejdsgiveren fra forfaldsdatoen betale renter af finansieringsbidraget med den rentesats, der til enhver tid er fastsat i medfør af § 5 i renteloven.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id9e94968a-06e3-4c72-9c1b-afe2af6b82dc",
+              "reference": "Stk. 13",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Arbejdsmarkedets Tillægspension har udpantningsret for finansieringsbidrag, renter og ekspeditionsgebyr.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id6ad1ff36-3434-4104-ab92-349d8e3a03cd",
+              "reference": "Stk. 14",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Afgørelser om finansieringsbidragspligt og finansieringsbidrag, herunder beregning og opkrævning, kan inden for en frist af 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for Ankenævnet for Arbejdsmarkedets Tillægspension, jf. § 28 i lov om Arbejdsmarkedets Tillægspension.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id848a785b-409a-4c5e-8eb9-df8af902a4d3",
+              "reference": "Stk. 15",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter efter forhandling med Arbejdsmarkedets Tillægspension nærmere regler om beregningsperioder, modregning og indbetaling af finansieringsbidrag m.v., herunder om forfaldstid og frist for arbejdsgiverens indbetaling. Det kan ved disse regler bestemmes, at Arbejdsmarkedets Tillægspension kan give henstand med indbetaling, opkræve et ekspeditionsgebyr ved påkrav på grund af manglende betaling og eftergive finansieringsbidrag, renter og eventuelle ekspeditionsgebyrer.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id74ea3abe-180d-4cb0-a9cf-069c2599d084",
+              "reference": "Stk. 16",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om ansøgning om fritagelse efter stk. 4, herunder om dokumentation og om tilbagebetaling af bidrag.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id3bd3743f-fe01-4820-b86b-d2ecc9c78d88",
+          "id": "Par46",
+          "reference": "§ 46",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Ved udbetaling af dagpenge efter § 18 fra arbejdsgivere under fravær på grund af forebyggende graviditetsundersøgelser indbetales bidrag til Arbejdsmarkedets Tillægspension efter de regler, der fremgår af kapitel 26 i lov om sygedagpenge.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id0c6a8105-cb10-474c-8ae7-da786283fd47",
+          "id": "Par47",
+          "reference": "§ 47",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "For personer, som modtager dagpenge efter denne lov fra Udbetaling Danmark, indbetaler Udbetaling Danmark et bidrag til den obligatoriske pensionsordning til Arbejdsmarkedets Tillægspension, jf. § 17 s i lov om Arbejdsmarkedets Tillægspension.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id0efb5cbf-667c-41e7-b289-ba97507a9d97",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Bidraget beregnes med den procentsats, der er nævnt i § 47 a, på grundlag af dagpenge til personen efter fradrag for personens ATP-bidrag efter § 44, stk. 3. Bidraget for 1 uge afrundes til nærmeste hele kronebeløb.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "idba52528f-1930-411a-b37a-53c6cc01ec7a",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Bidraget til den obligatoriske pensionsordning fradrages ikke i dagpengene. Bidraget til den obligatoriske pensionsordning betales af staten.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idc82d5c07-3956-41af-a17c-0cf12df4d56c",
+          "id": "Par47a",
+          "reference": "§ 47 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Bidraget til den obligatoriske pensionsordning beregnes med følgende procentsatser:",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "Fra den 6. januar 2020 med 0,3 pct.",
+              "guid": "idd69cbde1-1a1b-45b7-82c4-a184dbce575f",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 4. januar 2021 med 0,6 pct.",
+              "guid": "id509988c8-2337-4b33-a1ff-618140ffa09c",
+              "reference": "2)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 3. januar 2022 med 0,9 pct.",
+              "guid": "id4fcdaa58-f472-47a7-863a-91a5ff9254c6",
+              "reference": "3)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 2. januar 2023 med 1,2 pct.",
+              "guid": "idcf824cfe-e2f4-463c-9041-f015e4c42f7d",
+              "reference": "4)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 1. januar 2024 med 1,5 pct.",
+              "guid": "id42005473-db51-4d66-8c21-99a9a225c184",
+              "reference": "5)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 6. januar 2025 med 1,8 pct.",
+              "guid": "id8ef3c943-cde5-49c6-b4d5-2db9bf53461c",
+              "reference": "6)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 5. januar 2026 med 2,1 pct.",
+              "guid": "id4dff0363-b2d3-4d4e-b43b-abff1a98c9f7",
+              "reference": "7)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 4. januar 2027 med 2,4 pct.",
+              "guid": "ide6aae61a-2785-46e4-9bb7-eef6bd8693c5",
+              "reference": "8)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 3. januar 2028 med 2,7 pct.",
+              "guid": "id4deea789-da69-443d-aca2-9b5072c7789e",
+              "reference": "9)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 1. januar 2029 med 3,0 pct.",
+              "guid": "id894ee85b-8dec-4974-abd8-e6e6a356906d",
+              "reference": "10)"
+            },
+            {
+              "type": "list",
+              "text": "Fra den 7. januar 2030 med 3,3 pct.",
+              "guid": "idea59be58-2157-4400-a960-cf2fd5554f34",
+              "reference": "11)"
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id70d44bbb-4d76-459a-a4f3-9a7d7b7da079",
+          "id": "Par47b",
+          "reference": "§ 47 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Beskæftigelsesministeren fastsætter regler om beregning af bidrag til den obligatoriske pensionsordning, indberetning og indbetaling af bidrag til Arbejdsmarkedets Tillægspension og om tilbagebetaling af bidrag.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Administration m.v.",
+      "guid": "id9dc8081d-78cd-4368-9535-54ac62468801",
+      "paragraphs": [
+        {
+          "guid": "id4abb5b81-12b2-4b06-81b1-8b721e9707a7",
+          "id": "Par48",
+          "reference": "§ 48",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetaling Danmark træffer afgørelse om retten til barselsdagpenge.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id7dc0da10-93b2-48ce-b8ee-7fbc3dd41ca8",
+          "id": "Par48a",
+          "reference": "§ 48 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Til brug for Udbetaling Danmarks afgørelse om en persons ret til dagpenge efter barselsloven, herunder sats, kan Udbetaling Danmark anmode den arbejdsløshedskasse, som personen er medlem af, om at opgøre, om personen ville have haft ret til arbejdsløshedsdagpenge og med hvilken sats, hvis personen ikke havde haft ret til dagpenge efter barselsloven.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id1f5b34ba-b247-418b-9345-9819bf5e96a7",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Beskæftigelsesministeren fastsætter nærmere regler om, hvordan Udbetaling Danmarks anmodning skal ske, hvordan oplysningerne videregives fra arbejdsløshedskassen til Udbetaling Danmark m.v.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6f15e86e-0c9e-4e30-907a-c3144fc67e57",
+          "id": "Par49",
+          "reference": "§ 49",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Personer, der modtager ydelser efter denne lov, skal underrette arbejdsgiveren om forandringer i deres forhold eller andre omstændigheder, der kan medføre ændring i eller bortfald af dagpengene, herunder arbejdsgiverens mulighed for at kunne modtage refusion.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idb13361fd-966d-41a5-9bab-5c923f0e26b4",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "En person, der har tilsidesat sin oplysningspligt efter stk. 1 eller efter § 11 i lov om retssikkerhed og administration på det sociale område eller i øvrigt mod bedre vidende uberettiget har modtaget ydelser efter denne lov, skal tilbagebetale det beløb, der er modtaget med urette.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ida6ae6151-1dcc-417e-ae3e-3c5f4e5cf676",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Tilbagebetalingsbeløb opkræves af Udbetaling Danmark efter regler fastsat af beskæftigelsesministeren i samråd med skatteministeren.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id722105bf-5f87-4bb2-87ff-ba5ebcc661fb",
+              "reference": "Stk. 4",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Krav på tilbagebetaling af for meget udbetalte ydelser efter denne lov kan modregnes i ydelser efter loven.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id00d1880c-d844-4cd9-b231-d2353c323dec",
+          "id": "Par49a",
+          "reference": "§ 49 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En person har ikke ret til barselsdagpenge for en periode, hvor personen ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller for en periode, hvor personen ved endelig dom findes at have været i udlandet i strid med et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "ide786e5cc-2187-4876-b0fe-db1b26214ba1",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark skal træffe afgørelse om tilbagebetaling af barselsdagpenge udbetalt til personen for en periode, hvor personen er dømt for overtrædelse af de i stk. 1 nævnte bestemmelser. Det gælder, uanset om Udbetaling Danmark tidligere har truffet afgørelse om tilbagebetaling af barselsdagpenge udbetalt til personen for samme periode.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idf79a3160-4045-4e23-8571-77fc1823e36f",
+          "id": "Par49b",
+          "reference": "§ 49 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En person har ikke ret til dagpenge efter denne lov i en periode på 3 år, hvis personen ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v. og personen for den periode, som dommen omfatter, har modtaget en af følgende ydelser:",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "Dagpenge efter denne lov.",
+              "guid": "idd522d7cb-4151-45f0-a7b1-91f8d24af603",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "Sygedagpenge fra kommunen efter lov om sygedagpenge.",
+              "guid": "idce585a5c-36f0-4eef-b23d-70df68e60fd6",
+              "reference": "2)"
+            },
+            {
+              "type": "list",
+              "text": "Pension efter lov om social pension.",
+              "guid": "id54625a35-c9d3-4d89-9eba-e19b569aa4a7",
+              "reference": "3)"
+            },
+            {
+              "type": "list",
+              "text": "Pension efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.",
+              "guid": "id5ef722ea-dc3b-44e0-861d-d7cad18411d3",
+              "reference": "4)"
+            },
+            {
+              "type": "list",
+              "text": "Arbejdsløshedsdagpenge, feriedagpenge eller efterløn efter lov om arbejdsløshedsforsikring m.v.",
+              "guid": "idd489cdd0-bb0e-4674-8a1d-21a9f8d6c2b5",
+              "reference": "5)"
+            },
+            {
+              "type": "list",
+              "text": "Fleksydelse efter lov om fleksydelse.",
+              "guid": "ida2c8b090-09b9-4da2-b251-31b1aa2450c8",
+              "reference": "6)"
+            },
+            {
+              "type": "list",
+              "text": "Integrationsydelse, selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp, kontanthjælp, revalideringsydelse, ressourceforløbsydelse i ressourceforløb, ressourceforløbsydelse i jobafklaringsforløb eller ledighedsydelse efter lov om aktiv socialpolitik.",
+              "guid": "idcc941f15-26f9-42ab-96fb-c555460110fb",
+              "reference": "7)"
+            },
+            {
+              "type": "list",
+              "text": "Fleksløntilskud efter §§ 123 og 124 eller tilskud til selvstændig virksomhed efter § 126 i lov om en aktiv beskæftigelsesindsats.",
+              "guid": "id44872e90-b0df-40e4-9bfa-2eb18d9cda25",
+              "reference": "8)"
+            },
+            {
+              "type": "list",
+              "text": "Statens uddannelsesstøtte (SU) efter SU-loven.",
+              "guid": "idf7921567-f294-4ec3-a10d-a4c2248e0f9b",
+              "reference": "9)"
+            },
+            {
+              "type": "list",
+              "text": "Statens voksenuddannelsesstøtte (SVU) efter lov om statens voksenuddannelsesstøtte.",
+              "guid": "idc268bca7-2989-412e-ba2d-48296dca7ee5",
+              "reference": "10)"
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id0dc058a8-f1f2-48ca-8376-8e70c8697560",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Perioden i stk. 1 regnes fra det tidspunkt, hvor personen løslades efter afsoning af ubetinget fængselsstraf som følge af en dom, jf. stk. 1. Er personen ikke frihedsberøvet i perioden mellem en dom, jf. stk. 1, og afsoningen, medregnes denne periode i perioden efter stk. 1. Hvis personen alene idømmes bøde eller betinget fængselsstraf, regnes perioden i stk. 1 fra tidspunktet for den endelige dom, jf. stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "ide70570a2-6ab6-43f6-bd4b-f06944d0aebd",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark skal træffe afgørelse om, at en person, der har modtaget dagpenge efter denne lov, som personen ikke var berettiget til efter stk. 1, skal betale dagpengene tilbage.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id20b559e8-0576-440d-83e6-33830bc6f7ca",
+          "id": "Par49c",
+          "reference": "§ 49 c",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "En person har ikke ret til dagpenge efter denne lov i en periode på 3 år, hvis personen ved endelig dom er idømt ubetinget fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter for en overtrædelse, der er omfattet af straffelovens § 81 a, § 244, stk. 2, hvis forholdet er begået mod en person under 18 år, eller § 245, stk. 1, 3. pkt.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id2db7f846-7ea1-4c4a-ab0f-4672f08ab4b7",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Perioden i stk. 1 regnes fra det tidspunkt, hvor personen har udstået fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter, jf. stk. 1.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id824d5056-d482-451d-b589-8d2732d245c2",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Udbetaling Danmark skal træffe afgørelse om, at en person, der har modtaget dagpenge efter denne lov, som personen ikke var berettiget til efter stk. 1, skal betale dagpengene tilbage.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "idfb7d282d-010e-4a5d-aaff-9183e50accf9",
+          "id": "Par50",
+          "reference": "§ 50",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Krav på ydelser efter denne lov kan ikke gøres til genstand for udlæg eller anden retsforfølgning, medmindre der er forløbet 3 måneder fra den dag, hvor ydelsen kunne kræves udbetalt. Aftaler om sådanne krav er ugyldige.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id8fba9deb-2202-4860-9a24-3df51b71a914",
+          "id": "Par51",
+          "reference": "§ 51",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetalingen af barselsdagpenge ophører for en person, som efter domstolsafgørelse eller administrativ afgørelse er frihedsberøvet. Udføres der under frihedsberøvelsen arbejde på det almindelige arbejdsmarked med tilladelse fra kriminalforsorgen, er der dog ret til barselsdagpenge efter de almindelige regler.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "idadaf3686-0e53-43ce-8823-125048b92eab",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Kriminalforsorgen skal underrette Udbetaling Danmark, hvis en barselsdagpengemodtager undergives strafafsoning eller andre frihedsberøvende foranstaltninger, herunder varetægtsfængsling.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id5a01cdb4-8b12-4fda-9d1e-186c3f4e2296",
+          "id": "Par52",
+          "reference": "§ 52",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Barselsdagpengeudbetalingen ophører for en person, som bevidst unddrager sig strafforfølgning her i landet i tilfælde, hvor",
+              "guid": null,
+              "reference": null
+            },
+            {
+              "type": "list",
+              "text": "den pågældende er varetægtsfængslet,",
+              "guid": "id081c8e67-589f-4a2d-a162-23084f655e8d",
+              "reference": "1)"
+            },
+            {
+              "type": "list",
+              "text": "politiet eftersøger den pågældende med henblik på varetægtsfængsling eller",
+              "guid": "idb94df652-ee78-4131-82cf-d763f7db7102",
+              "reference": "2)"
+            },
+            {
+              "type": "list",
+              "text": "der foreligger en varetægtsfængslingskendelse.",
+              "guid": "id465d68f2-78f3-4e96-82e5-e186108b1753",
+              "reference": "3)"
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id3982ffc4-33d4-47a7-907d-86475114df63",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Dagpengeudbetalingen ophører endvidere for en person, som bevidst unddrager sig straffuldbyrdelse her i landet, hvis den pågældende er idømt en ubetinget fængselsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            },
+            {
+              "guid": "id7161028f-4be5-4edb-9704-ac1547b81719",
+              "reference": "Stk. 3",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Når politiet eller kriminalforsorgen får formodning om, at en person, der bevidst unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, samtidig modtager barselsdagpenge, skal Udbetaling Danmark underrettes om unddragelsen.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id6711efbc-9d01-4905-9dff-fdb6390094d0",
+          "id": "Par53",
+          "reference": "§ 53",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Efterfølges en strafforfølgning, jf. § 52, stk. 1, ikke af en domfældelse, udbetaler Udbetaling Danmark barselsdagpenge for den periode, hvor personen var frihedsberøvet eller unddrog sig strafforfølgning. Dagpengene efterbetales dog ikke til afdødes bo, hvis personen afgår ved døden, inden der er afsagt dom i sagen.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "ida1abca30-366b-4c68-844d-87b2a1a15498",
+          "id": "Par53a",
+          "reference": "§ 53 a",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetaling af barselsdagpenge ophører, hvis politiet træffer afgørelse om inddragelse af den pågældendes pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., fordi der er grund til at antage, at den pågældende i udlandet deltager i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id4ba46852-23b1-487d-8b24-8fc899e83408",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Omgøres en afgørelse om inddragelse af pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., eller ophæves den under en efterfølgende domstolsprøvelse, udbetaler Udbetaling Danmark barselsdagpenge for den periode, hvor der ikke er udbetalt barselsdagpenge, mens personens pas var inddraget, jf. stk. 1, såfremt de øvrige betingelser for udbetaling af barselsdagpenge var opfyldt i perioden.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id2eb001ed-20f4-4739-a4fe-57ccf51b75c6",
+          "id": "Par53b",
+          "reference": "§ 53 b",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Politiet skal underrette Udbetaling Danmark, hvis politiet træffer afgørelse om inddragelse af pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v. over for en person, som befinder sig i udlandet, og som politiet får formodning om samtidig modtager barselsdagpenge. Politiet skal endvidere underrette Udbetaling Danmark, hvis denne afgørelse senere omgøres eller ophæves.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id66bad794-42a3-4396-a7a5-5cb06cdbf153",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Anklagemyndigheden skal underrette Udbetaling Danmark, hvis anklagemyndigheden får formodning om, at en person, der ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v., modtager eller har modtaget barselsdagpenge.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Klageregler",
+      "guid": "idb60344a5-f07f-46c1-974a-f116508796b5",
+      "paragraphs": [
+        {
+          "guid": "idaef42152-60f9-45cf-bc48-7395f4bd24ee",
+          "id": "Par54",
+          "reference": "§ 54",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Udbetaling Danmarks afgørelser om ret til barselsdagpenge og om arbejdsgivers ret til tillæg til refusion kan påklages til Ankestyrelsen, jf. § 64 a i lov om retssikkerhed og administration på det sociale område.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id3bfc1574-3b53-4b02-b218-f674727cfc9f",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "Lønmodtagere, der udnytter deres ret til fravær efter kapitel 4, er omfattet af beskyttelsesbestemmelserne i lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Ikrafttrædelses- og overgangsbestemmelser",
+      "guid": "id14f0ceb5-c3f6-46e5-913d-9a1b6abfceee",
+      "paragraphs": [
+        {
+          "guid": "idcd2cecfd-e308-4453-986b-bc12102fe81b",
+          "id": "Par55",
+          "reference": "§ 55",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Loven træder i kraft den 3. juli 2006.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": [
+            {
+              "guid": "id08a6a8d8-917d-4a4b-ae98-39c1ec4fbe73",
+              "reference": "Stk. 2",
+              "texts": [
+                {
+                  "type": "plain",
+                  "text": "§ 11, § 12, stk. 1, §§ 13, 14, 15, 16, 16 a, 17, 18, 19 og 19 a i lov om dagpenge ved sygdom eller fødsel, jf. lovbekendtgørelse nr. 1047 af 28. oktober 2004, ophæves, jf. dog § 56, stk. 3.",
+                  "guid": null,
+                  "reference": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "guid": "id630ffcd8-3171-4c40-b94b-7dbb1488188d",
+          "id": "Par56-59",
+          "reference": "§§ 56-59",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "(Udelades)",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        },
+        {
+          "guid": "id5878cec4-9b60-468f-9572-b68e2f994826",
+          "id": "Par60",
+          "reference": "§ 60",
+          "texts": [
+            {
+              "type": "plain",
+              "text": "Loven gælder ikke for Færøerne og Grønland.",
+              "guid": null,
+              "reference": null
+            }
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ]
+}

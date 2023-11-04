@@ -37,6 +37,7 @@ tests = "pytest -v -s tests"
 unit-tests = "pytest -v -s tests/unit"
 extract-paragraph-refs = "python -m tools.extract_paragraph_refs"
 scrape-statute = "python -m tools.scrape_statute"
+parse-statute = "python -m tools.parse_statute"
 
 [tool.ruff]
 line-length = 130
