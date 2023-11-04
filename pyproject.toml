@@ -31,3 +31,9 @@ test = [
 [tool.pdm.scripts]
 tests = "pytest -v -s tests"
 scrape-statute = "python -m tools.scrape_statute"
+
+[tool.ruff]
+line-length = 130
+
+[tool.ruff.lint.isort]
+case-sensitive = true
