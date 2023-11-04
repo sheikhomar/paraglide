@@ -12,6 +12,9 @@ dependencies = [
     "playwright>=1.39.0",
     "anyio<4.0.0",
     "click>=8.1.7",
+    "pydantic>=2.4.2",
+    "beautifulsoup4>=4.12.2",
+    "dateparser>=1.1.8",
 ]
 
 [project.optional-dependencies]
@@ -30,6 +33,8 @@ test = [
 
 [tool.pdm.scripts]
 tests = "pytest -v -s tests"
+unit-tests = "pytest -v -s tests/unit"
+extract-paragraph-refs = "python -m tools.extract_paragraph_refs"
 scrape-statute = "python -m tools.scrape_statute"
 
 [tool.ruff]

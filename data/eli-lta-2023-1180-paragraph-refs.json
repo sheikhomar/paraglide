@@ -1,0 +1,412 @@
+[
+  {
+    "guid": "id58ce6fa8-5ce0-4072-824f-854ac8c1a1b5",
+    "id": "Par1",
+    "ref": "§ 1"
+  },
+  {
+    "guid": "idf24ba5f1-e79f-4868-8351-f9f1f45f89f0",
+    "id": "Par2",
+    "ref": "§ 2"
+  },
+  {
+    "guid": "id01b7e86a-a09a-4798-a6ba-8b192aca0fb6",
+    "id": "Par3",
+    "ref": "§ 3"
+  },
+  {
+    "guid": "idde5ce01e-d39b-47f8-8b60-d2ae72022fa1",
+    "id": "Par4",
+    "ref": "§ 4"
+  },
+  {
+    "guid": "idd1c96dd1-8549-4c19-8a79-5c72b8780225",
+    "id": "Par5",
+    "ref": "§ 5"
+  },
+  {
+    "guid": "idc59e1dad-55a1-4993-9c98-e30af8659a53",
+    "id": "Par6",
+    "ref": "§ 6"
+  },
+  {
+    "guid": "id6bd230d2-0825-4b3c-85f7-8059e122dfd2",
+    "id": "Par7",
+    "ref": "§ 7"
+  },
+  {
+    "guid": "ide0ac66e0-2563-4ae9-83f1-b07c47039034",
+    "id": "Par7a",
+    "ref": "§ 7 a"
+  },
+  {
+    "guid": "id6d2502a8-4994-4568-b19a-e0d3a7aeaecd",
+    "id": "Par8",
+    "ref": "§ 8"
+  },
+  {
+    "guid": "ide628626f-2b77-4586-8508-2202ac62b7c4",
+    "id": "Par9",
+    "ref": "§ 9"
+  },
+  {
+    "guid": "id8dbfbb58-e701-4dbd-9092-67415f6baf61",
+    "id": "Par10",
+    "ref": "§ 10"
+  },
+  {
+    "guid": "id43c4a948-6fe7-4e18-aa7a-dcbc2d577c03",
+    "id": "Par11",
+    "ref": "§ 11"
+  },
+  {
+    "guid": "ide0e9cfd5-9100-427a-8983-ad9b756385ee",
+    "id": "Par12",
+    "ref": "§ 12"
+  },
+  {
+    "guid": "id6d566a50-3fcf-4756-ad3e-93e8628ee33b",
+    "id": "Par13",
+    "ref": "§ 13"
+  },
+  {
+    "guid": "id838765bd-47bb-4e6b-8c7b-57733d654ab6",
+    "id": "Par14",
+    "ref": "§ 14"
+  },
+  {
+    "guid": "id92b7aa79-904d-4f53-ae61-6945cde06036",
+    "id": "Par14a",
+    "ref": "§ 14 a"
+  },
+  {
+    "guid": "id444b9af0-1073-453f-a3f5-2d3718f33902",
+    "id": "Par15",
+    "ref": "§ 15"
+  },
+  {
+    "guid": "idc557718d-4bb4-4841-a52d-675b8012fef0",
+    "id": "Par15a",
+    "ref": "§ 15 a"
+  },
+  {
+    "guid": "idae9a9eac-3bd0-4132-a01d-3a6ca8cc6a4c",
+    "id": "Par16",
+    "ref": "§ 16"
+  },
+  {
+    "guid": "id770b00da-c78f-48ea-a906-9b5dff6fefe0",
+    "id": "Par17",
+    "ref": "§ 17"
+  },
+  {
+    "guid": "id09ce6167-1efc-4650-b4eb-3b26f2f9c888",
+    "id": "Par18",
+    "ref": "§ 18"
+  },
+  {
+    "guid": "idac2af3a3-b480-466d-bb72-b81f12a0c4be",
+    "id": "Par19",
+    "ref": "§ 19"
+  },
+  {
+    "guid": "idb56f8b60-2d4a-4a5c-a377-ca053dcd1788",
+    "id": "Par20",
+    "ref": "§ 20"
+  },
+  {
+    "guid": "id615a29ef-3f1b-4118-abac-bde90a66c73f",
+    "id": "Par21",
+    "ref": "§ 21"
+  },
+  {
+    "guid": "iddb3f030f-7ea3-4861-962c-89e29a4d4c0e",
+    "id": "Par21a",
+    "ref": "§ 21 a"
+  },
+  {
+    "guid": "id1c30f915-718a-4b31-99a3-d5ca53a2722f",
+    "id": "Par21b",
+    "ref": "§ 21 b"
+  },
+  {
+    "guid": "id1f449f21-cfc9-4b71-82ec-130c41b57a1e",
+    "id": "Par21c",
+    "ref": "§ 21 c"
+  },
+  {
+    "guid": "id0bbd3f3a-a655-4530-84f8-f81ae5a860d7",
+    "id": "Par22",
+    "ref": "§ 22"
+  },
+  {
+    "guid": "id7b44f9eb-3d4e-489f-a8b0-dee97c100bcc",
+    "id": "Par23",
+    "ref": "§ 23"
+  },
+  {
+    "guid": "id68118eb4-3a15-415b-9591-b340049a53fa",
+    "id": "Par24",
+    "ref": "§ 24"
+  },
+  {
+    "guid": "id1af0d387-f9e9-45f5-9446-28f7abcdefcd",
+    "id": "Par25",
+    "ref": "§ 25"
+  },
+  {
+    "guid": "id7f3285ac-8cf2-42a2-a5a3-d15922c67f1e",
+    "id": "Par25a",
+    "ref": "§ 25 a"
+  },
+  {
+    "guid": "idb51972c0-14f8-451f-90b0-5881bf8d75d2",
+    "id": "Par25b",
+    "ref": "§ 25 b"
+  },
+  {
+    "guid": "id7065b2fc-205c-4758-ac48-6fc8bea98857",
+    "id": "Par25c",
+    "ref": "§ 25 c"
+  },
+  {
+    "guid": "id4c3f7de1-f477-4305-b7cc-0af9ab0d9cd8",
+    "id": "Par25d",
+    "ref": "§ 25 d"
+  },
+  {
+    "guid": "idf106949f-ec40-473c-a765-e42635cc1a6c",
+    "id": "Par26",
+    "ref": "§ 26"
+  },
+  {
+    "guid": "id4a331bde-2314-4aec-a18f-e6514b682ca6",
+    "id": "Par26a",
+    "ref": "§ 26 a"
+  },
+  {
+    "guid": "idebc1f5d7-6b8c-44cb-907a-f65b6a8f36f9",
+    "id": "Par26b",
+    "ref": "§ 26 b"
+  },
+  {
+    "guid": "id8fc273af-966b-412c-b18a-02b4d1d51e2f",
+    "id": "Par26c",
+    "ref": "§ 26 c"
+  },
+  {
+    "guid": "id7658cce6-c6b5-46f2-9824-eca536dc91f7",
+    "id": "Par27",
+    "ref": "§ 27"
+  },
+  {
+    "guid": "ide3fcae75-34ae-4a72-b49a-8a7c71362d27",
+    "id": "Par28",
+    "ref": "§ 28"
+  },
+  {
+    "guid": "id449ed120-c3a8-460d-a579-b4ab80e8870b",
+    "id": "Par29",
+    "ref": "§ 29"
+  },
+  {
+    "guid": "id3e1bc903-caf4-4fa4-92bf-eff705a05e64",
+    "id": "Par30",
+    "ref": "§ 30"
+  },
+  {
+    "guid": "idd64b553a-bc01-42ef-8618-51ec688b3b52",
+    "id": "Par31",
+    "ref": "§ 31"
+  },
+  {
+    "guid": "idd771a7bf-2d1e-4ae1-9b0e-c31984ec5dbf",
+    "id": "Par32",
+    "ref": "§ 32"
+  },
+  {
+    "guid": "idf8d0f746-7beb-4768-8fb2-d453a32739a5",
+    "id": "Par33",
+    "ref": "§ 33"
+  },
+  {
+    "guid": "idc26b2379-a027-4916-b6b0-c59c353fb35a",
+    "id": "Par34",
+    "ref": "§ 34"
+  },
+  {
+    "guid": "id00f2f9ac-25f7-425a-8e68-86e0c87231ee",
+    "id": "Par35",
+    "ref": "§ 35"
+  },
+  {
+    "guid": "ida15436e5-7d7e-4dfa-baa7-3765c00eb599",
+    "id": "Par36",
+    "ref": "§ 36"
+  },
+  {
+    "guid": "id6024ca6f-ed31-47ce-b97f-2e1b149000f9",
+    "id": "Par37",
+    "ref": "§ 37"
+  },
+  {
+    "guid": "id73331626-40f2-4152-8914-45415d1b4364",
+    "id": "Par38",
+    "ref": "§ 38"
+  },
+  {
+    "guid": "ide44ef01f-1772-4209-96d6-c932d8ea4032",
+    "id": "Par38a",
+    "ref": "§ 38 a"
+  },
+  {
+    "guid": "id39602463-5a0d-455d-baab-9c668a1f5226",
+    "id": "Par39",
+    "ref": "§ 39"
+  },
+  {
+    "guid": "id72f735e7-6465-460c-b011-bd57a223893c",
+    "id": "Par39a",
+    "ref": "§ 39 a"
+  },
+  {
+    "guid": "id0bfa3cd0-4730-4d96-be24-1e760f2e3842",
+    "id": "Par39b",
+    "ref": "§ 39 b"
+  },
+  {
+    "guid": "id14739b3c-5306-4e8c-906b-1f82476763e6",
+    "id": "Par39c",
+    "ref": "§ 39 c"
+  },
+  {
+    "guid": "id05db0f61-aea1-48ac-a21b-d03e8912bc0d",
+    "id": "Par40",
+    "ref": "§ 40"
+  },
+  {
+    "guid": "id764c9eb2-2224-4054-8a2b-374c40bc960b",
+    "id": "Par41",
+    "ref": "§ 41"
+  },
+  {
+    "guid": "id0d159589-36f6-4ee0-837d-25bae6c076f8",
+    "id": "Par42",
+    "ref": "§ 42"
+  },
+  {
+    "guid": "id28e488b6-e774-4969-b09b-81737c943d0b",
+    "id": "Par43",
+    "ref": "§ 43"
+  },
+  {
+    "guid": "id1435ca23-2549-4ac3-a485-e12b13c18974",
+    "id": "Par44",
+    "ref": "§ 44"
+  },
+  {
+    "guid": "idc282d3b6-3a94-418f-8725-5517ffdf9d74",
+    "id": "Par45",
+    "ref": "§ 45"
+  },
+  {
+    "guid": "id3bd3743f-fe01-4820-b86b-d2ecc9c78d88",
+    "id": "Par46",
+    "ref": "§ 46"
+  },
+  {
+    "guid": "id0c6a8105-cb10-474c-8ae7-da786283fd47",
+    "id": "Par47",
+    "ref": "§ 47"
+  },
+  {
+    "guid": "idc82d5c07-3956-41af-a17c-0cf12df4d56c",
+    "id": "Par47a",
+    "ref": "§ 47 a"
+  },
+  {
+    "guid": "id70d44bbb-4d76-459a-a4f3-9a7d7b7da079",
+    "id": "Par47b",
+    "ref": "§ 47 b"
+  },
+  {
+    "guid": "id4abb5b81-12b2-4b06-81b1-8b721e9707a7",
+    "id": "Par48",
+    "ref": "§ 48"
+  },
+  {
+    "guid": "id7dc0da10-93b2-48ce-b8ee-7fbc3dd41ca8",
+    "id": "Par48a",
+    "ref": "§ 48 a"
+  },
+  {
+    "guid": "id6f15e86e-0c9e-4e30-907a-c3144fc67e57",
+    "id": "Par49",
+    "ref": "§ 49"
+  },
+  {
+    "guid": "id00d1880c-d844-4cd9-b231-d2353c323dec",
+    "id": "Par49a",
+    "ref": "§ 49 a"
+  },
+  {
+    "guid": "idf79a3160-4045-4e23-8571-77fc1823e36f",
+    "id": "Par49b",
+    "ref": "§ 49 b"
+  },
+  {
+    "guid": "id20b559e8-0576-440d-83e6-33830bc6f7ca",
+    "id": "Par49c",
+    "ref": "§ 49 c"
+  },
+  {
+    "guid": "idfb7d282d-010e-4a5d-aaff-9183e50accf9",
+    "id": "Par50",
+    "ref": "§ 50"
+  },
+  {
+    "guid": "id8fba9deb-2202-4860-9a24-3df51b71a914",
+    "id": "Par51",
+    "ref": "§ 51"
+  },
+  {
+    "guid": "id5a01cdb4-8b12-4fda-9d1e-186c3f4e2296",
+    "id": "Par52",
+    "ref": "§ 52"
+  },
+  {
+    "guid": "id6711efbc-9d01-4905-9dff-fdb6390094d0",
+    "id": "Par53",
+    "ref": "§ 53"
+  },
+  {
+    "guid": "ida1abca30-366b-4c68-844d-87b2a1a15498",
+    "id": "Par53a",
+    "ref": "§ 53 a"
+  },
+  {
+    "guid": "id2eb001ed-20f4-4739-a4fe-57ccf51b75c6",
+    "id": "Par53b",
+    "ref": "§ 53 b"
+  },
+  {
+    "guid": "idaef42152-60f9-45cf-bc48-7395f4bd24ee",
+    "id": "Par54",
+    "ref": "§ 54"
+  },
+  {
+    "guid": "idcd2cecfd-e308-4453-986b-bc12102fe81b",
+    "id": "Par55",
+    "ref": "§ 55"
+  },
+  {
+    "guid": "id630ffcd8-3171-4c40-b94b-7dbb1488188d",
+    "id": "Par56-59",
+    "ref": "§§ 56-59"
+  },
+  {
+    "guid": "id5878cec4-9b60-468f-9572-b68e2f994826",
+    "id": "Par60",
+    "ref": "§ 60"
+  }
+]
