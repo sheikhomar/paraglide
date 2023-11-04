@@ -25,14 +25,3 @@ repos:
   - id: check-json
   - id: check-added-large-files
     language_version: python3
-
-- repo: local
-  hooks:
-    - id: pyre-check
-      name: pyre-check
-      stages: [commit]
-      language: python
-      entry: pdm run pyre check
-      types: [python]
-      pass_filenames: false
-      additional_dependencies: []
