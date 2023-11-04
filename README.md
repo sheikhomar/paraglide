@@ -18,3 +18,9 @@ An app for searching through Danish statutes.
     pdm use python
     pdm install
     ```
+
+4. Install the pre-commit hooks:
+
+    ```bash
+    pdm run pre-commit install
+    ```
