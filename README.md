@@ -60,3 +60,9 @@ An app for searching through Danish statutes.
     --index-dir data/llama-indices/cohere-embed-v3 \
     --cohere-api-key $COHERE_API_KEY
   ```
+
+- Run web app for searching through the statute for parental leave:
+
+  ```bash
+  pdm run ui-parental-leave
+  ```

@@ -17,6 +17,7 @@ dependencies = [
     "dateparser>=1.1.8",
     "llama-index>=0.8.59",
     "cohere>=4.32",
+    "streamlit>=1.28.1",
 ]
 
 [project.optional-dependencies]
@@ -41,6 +42,7 @@ extract-paragraph-refs = "python -m tools.extract_paragraph_refs"
 scrape-statute = "python -m tools.scrape_statute"
 parse-statute = "python -m tools.parse_statute"
 build-index-cohere = "python -m tools.build_index_cohere"
+ui-parental-leave = "streamlit run tools/streamlit_ui_parental_leave.py"
 
 [tool.ruff]
 line-length = 130

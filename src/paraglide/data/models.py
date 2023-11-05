@@ -105,3 +105,56 @@ class ParagraphRefList(RootModel[List[ParagraphRef]]):
     def from_json_path(cls, file_path: str) -> "ParagraphRefList":
         with open(file_path) as fp:
             return cls.model_validate_json(json_data=fp.read())
+
+
+class ChatMessageRole(Enum):
+    """Represents a role in a conversation."""
+
+    ASSISTANT = "assistant"
+    """The assistant role."""
+
+    USER = "user"
+    """The user role."""
+
+
+class ChatMessage(BaseModel):
+    """Represents a message from a conversation."""
+
+    text: str = Field(description="The text of this message")
+    """The text of this message."""
+
+    role: ChatMessageRole = Field(description="The role that generated this message")
+    """The role that generated this message."""
+
+
+class ChatConversation(BaseModel):
+    """Represents a conversation."""
+
+    messages: List[ChatMessage] = Field(default_factory=list)
+    """The messages in this conversation"""
+
+    def add_message(self, text: str, role: ChatMessageRole) -> None:
+        """Add a message to the conversation.
+
+        Args:
+            text (str): the text of the message.
+            role (ChatMessageRole): the role of the message.
+        """
+        self.messages.append(ChatMessage(text=text, role=role))
+
+    def add_user_message(self, text: str) -> None:
+        """Add a message to the conversation.
+
+        Args:
+            text (str): the text of the message.
+        """
+        self.add_message(text=text, role=ChatMessageRole.USER)
+
+    def add_assistant_message(self, text: str) -> None:
+        """Add a message to the conversation.
+
+        Args:
+            text (str): the text of the message.
+        """
+
+        self.add_message(text=text, role=ChatMessageRole.ASSISTANT)
