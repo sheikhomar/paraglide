@@ -101,16 +101,11 @@ class ParentalLeaveStatuteQAEngine:
         )
 
     def run(self, query: ParentalLeaveStatuteQuery) -> Iterator[str]:
-        yield "Jeg kigger først lige i barselsloven. Hæng på...\n\n"
-
         query_for_retriever = self._build_query_for_retriever(query=query)
 
         retrieved_nodes = self._retriever.retrieve(
             str_or_query_bundle=query_for_retriever,
         )
-
-        for item in self._stream_retreived_nodes(retrieved_nodes=retrieved_nodes):
-            yield item
 
         llm_prompt = self._build_llm_prompt(
             query=query, retrieved_nodes=retrieved_nodes
@@ -120,11 +115,13 @@ class ParentalLeaveStatuteQAEngine:
         for item in self._stream_llm_response(llm_prompt=llm_prompt):
             yield item
 
+        yield "\n\n### Kilder\n\n"
+        for item in self._stream_retreived_nodes(retrieved_nodes=retrieved_nodes):
+            yield item
+
     def _stream_retreived_nodes(
         self, retrieved_nodes: List[NodeWithScore]
     ) -> Iterator[str]:
-        yield "Jeg har fundet flg. afsnit som kunne indeholde svar på dit spørgsmål:\n\n"
-
         for source_node in retrieved_nodes:
             # source_text_fmt = source_node.node.get_content(metadata_mode=MetadataMode.ALL).strip()
 
@@ -132,6 +129,7 @@ class ParentalLeaveStatuteQAEngine:
             chapter_no = source_node.node.metadata["Kapitel nummer"]
             chapter_title = source_node.node.metadata["Kapitel overskrift"]
             is_paragraph = source_node.node.metadata.get("Type", "") == "Paragraf"
+            short_guid = source_node.node_id.split("-")[0]
 
             yield f"**Kapitel {chapter_no}: {chapter_title}."
 
@@ -139,7 +137,7 @@ class ParentalLeaveStatuteQAEngine:
                 yield f" Paragraf: {reference}"
             else:
                 yield f" {reference}"
-            yield "**\n\n"
+            yield f"** [{short_guid}]\n\n"
 
             yield f"{source_node.node.get_content().strip()}\n\n"
 
@@ -152,9 +150,6 @@ class ParentalLeaveStatuteQAEngine:
         Yields:
             Iterator[str]: The response from the LLM.
         """
-
-        yield "\nDanner et svar udfra ovenstående afsnit. Vent venligst...\n\n"
-
         self._messages.append(
             ChatMessage(
                 role=MessageRole.USER,
