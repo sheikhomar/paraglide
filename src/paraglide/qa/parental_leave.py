@@ -37,7 +37,7 @@ class ParentalLeaveStatuteQAEngine:
         index_dir: Path,
         cohere_api_key: str,
         openai_api_key: str,
-        llm_model_name: str = "gpt-3.5-turbo",
+        llm_model_name: str = "gpt-4",
     ) -> None:
         # TODO: Refactor this.
         self._llm = OpenAI(
