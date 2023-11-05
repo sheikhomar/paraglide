@@ -76,8 +76,10 @@ class ParentalLeaveStatuteQAEngine:
         # prompt = self._build_prompt(query)
         yield "Jeg kigger først lige i barselsloven. Hæng på...\n\n"
 
+        query_for_retriever = self._build_query_for_retriever(query=query)
+
         retrieved_nodes = self._retriever.retrieve(
-            str_or_query_bundle=query.question,
+            str_or_query_bundle=query_for_retriever,
         )
 
         yield "Jeg har fundet flg. afsnit som kunne indeholde svar på dit spørgsmål:\n\n"
@@ -90,15 +92,17 @@ class ParentalLeaveStatuteQAEngine:
             chapter_title = source_node.node.metadata["Kapitel overskrift"]
             is_paragraph = source_node.node.metadata.get("Type", "") == "Paragraf"
 
-            yield f" - Kapitel {chapter_no}: {chapter_title}."
+            yield f"**Kapitel {chapter_no}: {chapter_title}."
 
             if is_paragraph:
                 yield f" Paragraf: {reference}"
             else:
                 yield f" {reference}"
-            yield "\n"
+            yield "**\n\n"
 
-        yield "\nDanner et svar udfra ovenstående afsnit. Vent venligst..."
+            yield f"{source_node.node.get_content().strip()}\n\n"
+
+        # yield "\nDanner et svar udfra ovenstående afsnit. Vent venligst..."
 
     def _build_prompt(self, query: ParentalLeaveStatuteQuery) -> str:
         """Build the prompt for the query."""
@@ -106,3 +110,30 @@ class ParentalLeaveStatuteQAEngine:
         for key, value in query.situational_context.items():
             prompt += f"{key}: {value}\n"
         return prompt
+
+    def _build_query_for_retriever(self, query: ParentalLeaveStatuteQuery) -> str:
+        """Build the query for the retriever.
+
+        The query is the question with the situational context as a prefix.
+
+        Args:
+            query (ParentalLeaveStatuteQuery): The query.
+
+        Returns:
+            str: The query for the retriever.
+        """
+
+        question_with_context = ""
+
+        if len(query.situational_context) > 0:
+            question_with_context += "Min nuværende situtation er:\n"
+
+            for key, value in query.situational_context.items():
+                question_with_context += f" - {key}: {value}\n"
+
+            question_with_context += "\n"
+
+        question_with_context += "Mit spørgsmål er:\n"
+        question_with_context += query.question
+
+        return question_with_context
