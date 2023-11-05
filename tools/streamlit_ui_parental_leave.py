@@ -165,8 +165,8 @@ class StreamlitApp:
             st.button(
                 f"Spørg: {question}",
                 key=question,
-                on_click=lambda: self.current_conversation.add_user_message(
-                    text=question
+                on_click=lambda q=question: self.current_conversation.add_user_message(
+                    text=q
                 ),
             )
 
