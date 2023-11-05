@@ -195,11 +195,13 @@ def main() -> None:
     # TODO: Make the following variables configurable.
     index_dir = Path("data/llama-indices/cohere-embed-v3")
     cohere_api_key: str = os.environ.get("COHERE_API_KEY", "")
+    openai_api_key: str = os.environ.get("PARAGLIDE_OPENAI_API_KEY", "")
 
     # Initialize the QA engine and the app
     qa_engine = ParentalLeaveStatuteQAEngine(
         index_dir=index_dir,
         cohere_api_key=cohere_api_key,
+        openai_api_key=openai_api_key,
     )
     app = StreamlitApp(qa_engine=qa_engine)
     app.run()

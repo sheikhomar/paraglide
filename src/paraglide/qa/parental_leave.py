@@ -1,13 +1,15 @@
 from pathlib import Path
-from typing import Dict, Iterator, cast
+from typing import Dict, Iterator, List, cast
 
 from llama_index import ServiceContext, StorageContext
 from llama_index.embeddings.cohereai import CohereEmbedding
 from llama_index.indices.loading import load_index_from_storage
 from llama_index.indices.vector_store import VectorStoreIndex
 from llama_index.indices.vector_store.retrievers import VectorIndexRetriever
+from llama_index.llms import ChatMessage, MessageRole, OpenAI
 from llama_index.node_parser import SimpleNodeParser
 from llama_index.response_synthesizers import ResponseMode, get_response_synthesizer
+from llama_index.schema import NodeWithScore
 from pydantic import BaseModel, Field
 
 
@@ -30,7 +32,33 @@ class ParentalLeaveStatuteQuery(BaseModel):
 class ParentalLeaveStatuteQAEngine:
     """Represents a question-answering engine for the parental leave statute."""
 
-    def __init__(self, index_dir: Path, cohere_api_key: str) -> None:
+    def __init__(
+        self,
+        index_dir: Path,
+        cohere_api_key: str,
+        openai_api_key: str,
+        llm_model_name: str = "gpt-3.5-turbo",
+    ) -> None:
+        # TODO: Refactor this.
+        self._llm = OpenAI(
+            api_key=openai_api_key,
+            model=llm_model_name,
+            temperature=0.0,
+        )
+
+        self._messages = [
+            ChatMessage(
+                role=MessageRole.SYSTEM,
+                content=(
+                    "Dit navn er Lærbar. Du er jura-professor, "
+                    "der er ekspert i barselsloven. Du hjælper folk med "
+                    "at forstå barselsloven og besvare spørgsmål om barselsloven. "
+                    "Dine svar er baseret på tekst-fraser citeret direkte "
+                    "fra barselsloven."
+                ),
+            )
+        ]
+
         embed_model = CohereEmbedding(
             cohere_api_key=cohere_api_key,
             model_name="embed-multilingual-v3.0",
@@ -73,7 +101,6 @@ class ParentalLeaveStatuteQAEngine:
         )
 
     def run(self, query: ParentalLeaveStatuteQuery) -> Iterator[str]:
-        # prompt = self._build_prompt(query)
         yield "Jeg kigger først lige i barselsloven. Hæng på...\n\n"
 
         query_for_retriever = self._build_query_for_retriever(query=query)
@@ -82,6 +109,20 @@ class ParentalLeaveStatuteQAEngine:
             str_or_query_bundle=query_for_retriever,
         )
 
+        for item in self._stream_retreived_nodes(retrieved_nodes=retrieved_nodes):
+            yield item
+
+        llm_prompt = self._build_llm_prompt(
+            query=query, retrieved_nodes=retrieved_nodes
+        )
+        print(llm_prompt)
+
+        for item in self._stream_llm_response(llm_prompt=llm_prompt):
+            yield item
+
+    def _stream_retreived_nodes(
+        self, retrieved_nodes: List[NodeWithScore]
+    ) -> Iterator[str]:
         yield "Jeg har fundet flg. afsnit som kunne indeholde svar på dit spørgsmål:\n\n"
 
         for source_node in retrieved_nodes:
@@ -102,13 +143,82 @@ class ParentalLeaveStatuteQAEngine:
 
             yield f"{source_node.node.get_content().strip()}\n\n"
 
-        # yield "\nDanner et svar udfra ovenstående afsnit. Vent venligst..."
+    def _stream_llm_response(self, llm_prompt: str) -> Iterator[str]:
+        """Query the LLM and stream the response.
 
-    def _build_prompt(self, query: ParentalLeaveStatuteQuery) -> str:
+        Args:
+            llm_prompt (str): The prompt for the LLM.
+
+        Yields:
+            Iterator[str]: The response from the LLM.
+        """
+
+        yield "\nDanner et svar udfra ovenstående afsnit. Vent venligst...\n\n"
+
+        self._messages.append(
+            ChatMessage(
+                role=MessageRole.USER,
+                content=llm_prompt,
+            )
+        )
+
+        llm_completion_resp = self._llm.stream_chat(
+            messages=self._messages,
+        )
+
+        full_response = ""
+        for chunk in llm_completion_resp:
+            chunk_text = chunk.delta
+            full_response += chunk_text
+            yield chunk_text
+
+        self._messages.append(
+            ChatMessage(
+                role=MessageRole.ASSISTANT,
+                content=full_response,
+            )
+        )
+
+        print(f"Full response:\n\n{full_response}")
+
+    def _build_llm_prompt(
+        self, query: ParentalLeaveStatuteQuery, retrieved_nodes: List[NodeWithScore]
+    ) -> str:
         """Build the prompt for the query."""
-        prompt = query.question + "\n\n"
+        prompt = ""
+
+        prompt += "Du får et spørgsmål fra en person, hvis situation ser sådan ud:\n\n"
         for key, value in query.situational_context.items():
-            prompt += f"{key}: {value}\n"
+            prompt += f" - {key}: {value}\n"
+
+        prompt += "\n"
+        prompt += "Personen stiller flg. spørgsmål:\n\n"
+        prompt += f"{query.question}\n\n"
+
+        if len(retrieved_nodes) > 0:
+            prompt += "## Kilder\n\n"
+            prompt += "Et opslag i barselsloven giver flg. tekster.\n\n"
+            for source_node in retrieved_nodes:
+                reference = source_node.node.metadata["Reference"]
+                chapter_no = source_node.node.metadata["Kapitel nummer"]
+                chapter_title = source_node.node.metadata["Kapitel overskrift"]
+                is_paragraph = source_node.node.metadata.get("Type", "") == "Paragraf"
+                short_guid = source_node.node_id.split("-")[0]
+
+                source_text = (
+                    f"### [{short_guid}] Kapitel {chapter_no}: {chapter_title}."
+                )
+                if is_paragraph:
+                    source_text += f" Paragraf: {reference}"
+                else:
+                    source_text += f" {reference}"
+
+                prompt += f"{source_text}\n\n"
+                prompt += f"{source_node.node.get_content().strip()}\n\n"
+
+        prompt += "Din opgave er bevare konteksten fra spørgsmålet og svare på spørgsmålet med en kort tekst. "
+        prompt += "Dit svar skal altid inkludere en eller flere referencer fra Kilder-sektionen.\n"
+
         return prompt
 
     def _build_query_for_retriever(self, query: ParentalLeaveStatuteQuery) -> str:
